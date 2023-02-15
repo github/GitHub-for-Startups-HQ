@@ -53,4 +53,4 @@ Build an ecosystem that accelerates the adoption of GitHub in the world's most p
  
  ## Program Engagement
 
-Our startup program mixes in person educational and networking events, live and pre-recroded educational content, and much more. Always keep up with what's going on by checking our [Engage Page](https://github.com/github/GitHub-for-Startups/blob/main/Engage%20Page.md)!
+Our startup program mixes in person educational and networking events, live and pre-recroded educational content, and much more. Always keep up with what's going on by checking our [Engage Page](https://github.com/GitHub-for-Startups/Global-Repo/blob/main/Community%20Engage%20Page.md)!
