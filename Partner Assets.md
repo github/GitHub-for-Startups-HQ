@@ -1,4 +1,3 @@
-# GitHub for Startups Partner Page
 ![Screenshot 2023-07-28 at 11 17 59 AM](https://github.com/GitHub-for-Startups/Global-Repo/assets/104642274/e41cc942-061d-471d-b428-103543fd95be)
    
 Welcome to the GitHub for Startups program. We’re excited to partner with you to help your startups build and scale on GitHub. This page contains all of the resources you need to share GitHub with your startups.
@@ -7,10 +6,11 @@ Welcome to the GitHub for Startups program. We’re excited to partner with you 
 
 ## Partner Assets
 <details><summary>
-🚀 Sharing our startup partnership
+🚀 Sharing our partnership
 
 </summary>
 
+Hi Founders,
 
 We’re partnering with GitHub for Startups to offer special access to GitHub Enterprise, free for one year (50% off year two), for eligible startups in our ecosystem.
 
