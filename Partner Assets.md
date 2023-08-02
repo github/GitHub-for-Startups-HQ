@@ -5,6 +5,8 @@ Welcome to the GitHub for Startups program. We’re excited to partner with you 
 
 > Need support? Contact your partner lead or reach the startup team startups@github.com.
 
+> Interested in partnering? Learn more and [apply here](https://github.com/enterprise/startups#join-partners).
+
 ## Partner Assets
 <details><summary>
 🚀 Sharing our partnership
