@@ -7,7 +7,11 @@
 
 **Start It Up Wednesday**
 
-This is a stream that gets you in front of the entire GitHub community to talk about you, your startup, and the journey for both.
+This is a stream that gets you in front of the entire GitHub community to talk about you, your startup, and the journey for both. Apply to be featured [here](https://forms.gle/tzRFRKMBxmSXfdPk9).
+
+**Customer Case Study**
+
+Have an interesting story that you want to share with our team? We're always looking to highlight companies that are innovating for the future on GitHub. Apply to be featured [here](https://forms.gle/tzRFRKMBxmSXfdPk9).
 
 ### Events
 
