@@ -16,28 +16,36 @@ This guide was put together in order to better serve you in navigating all you n
 
 **Onboarding:**
 
-Terms of Service upgrade
-Adding Organizations to your Enterprise
-Converting User → Organization
+[Terms of Service upgrade](https://docs.github.com/en/organizations/managing-organization-settings/upgrading-to-the-corporate-terms-of-service)
+
+[Adding Organizations to your Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/user-management/managing-organizations-in-your-enterprise/adding-organizations-to-your-enterprise)
+
+[Converting User → Organization](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-personal-account/converting-a-user-into-an-organization)
 
 **Roles & People:**
 
-Roles in an Enterprise
-Inviting others to manage your Enterprise
-View people in your Enterprise
-Removing a member from your Enterprise
-Managing organization members within your Enterprise
+[Roles in an Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/user-management/managing-users-in-your-enterprise/roles-in-an-enterprise)
+
+[Inviting others to manage your Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/user-management/managing-users-in-your-enterprise/inviting-people-to-manage-your-enterprise)
+
+[View people in your Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/user-management/managing-users-in-your-enterprise/viewing-people-in-your-enterprise)
+
+[Removing a member from your Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/user-management/managing-users-in-your-enterprise/removing-a-member-from-your-enterprise)
+
+[Managing organization members within your Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/user-management/managing-users-in-your-enterprise/managing-organization-members-in-your-enterprise)
 
 **Copilot for Business:**
 
-About Copilot for Business
-Configuring Copilot settings in your organization
+[About Copilot for Business](https://docs.github.com/en/enterprise-cloud@latest/copilot/overview-of-github-copilot/about-github-copilot-for-business)
+
+[Configuring Copilot settings in your organization](https://docs.github.com/en/enterprise-cloud@latest/copilot/configuring-github-copilot/configuring-github-copilot-settings-in-your-organization)
 
 **Pricing:**
 
-General pricing
-Pricing calculator
+[General pricing](https://github.com/pricing)
+
+[Pricing calculator](https://github.com/pricing/calculator?feature=actions)
 
 **Termination:**
 
-Remove organizations from your Enterprise
+[Remove organizations from your Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/user-management/managing-organizations-in-your-enterprise/removing-organizations-from-your-enterprise)
