@@ -4,31 +4,40 @@
 
 This guide was put together in order to better serve you in navigating all you need to know as it pertains to the program and setting up your GitHub account. If you have any questions, or suggestions to add additional content, please feel free to reach out to us at startups@github.com
 
-General Topics:
-Types of GitHub accounts
-GitHub Enterprise
-Best Practices
-What comes with the GFS Offer?
+**General Topics:**
 
-Onboarding:
+[Types of GitHub accounts](https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts)
+
+[GitHub Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-for-enterprises)
+
+- [Best Practices](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/best-practices-for-enterprises)
+
+[What comes with the GFS Offer?](https://github.com/enterprise/startups)
+
+**Onboarding:**
+
 Terms of Service upgrade
 Adding Organizations to your Enterprise
 Converting User → Organization
 
-Roles & People
+**Roles & People:**
+
 Roles in an Enterprise
 Inviting others to manage your Enterprise
 View people in your Enterprise
 Removing a member from your Enterprise
 Managing organization members within your Enterprise
 
-Copilot for Business
+**Copilot for Business:**
+
 About Copilot for Business
 Configuring Copilot settings in your organization
 
-Pricing
+**Pricing:**
+
 General pricing
 Pricing calculator
 
-Termination
+**Termination:**
+
 Remove organizations from your Enterprise
