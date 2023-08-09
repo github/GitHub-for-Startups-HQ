@@ -5,31 +5,15 @@
 
 ## Our Program
 
-GitHub for Startups drives GitHub adoption through providing high growth potential startups educational content, networking opportunites and a founder focused ecosystem that supports you as you grow. We create, develop and grow technology and venture partnerships that improve the founder’s, and their developer's, experience on GitHub. 
+GitHub for Startups helps drive startup success through providing startups educational content, networking opportunites and a founder focused ecosystem that supports you as you grow. We create, develop and grow technology and venture partnerships that improve the founder’s, and their developer's, experience on GitHub. 
 
-**Startup eligibility** 
+**🖋️ Startup Eligibility** 
 - Must be an early-stage startup that is funded (up to  Series A) or associated with a GitHub for Startups partner. This can be an investor, accelerator, or startup support organization.  **A full list of GitHub for Startups partners can be found [here](https://github.com/enterprise/startups/partners).**
-- Must not be a current GitHub Enterprise customer or have previously received credits for GitHub Enterprise.
+- Must not be a current GitHub Enterprise customer or have previously received credits for GitHub Enterprise
 
-<details><summary>
-🚀 Program Details
-</summary>
 
-### 🖋 Program Ethos
+**👨‍💻 Startup Offer**
 
-The GitHub startup program will empower developers in the world’s best startups to build better products with GitHub. To do this, the startup program must be underpinned by:
-
-- **Developer first community and messaging**: GitHub has built a strong reputation as a developer first organization. The startup program has to reflect this through it’s programs, offering, community, and messaging. 
-
-- **Strong startup ecosystem partnerships**: Venture Capital, Accelerator, and Incubator partners will be key influencers for GitHub’s work with startups. Through a thoughtful engagement strategy, GitHub can efficiently use these relationships to engage startups at scale.  
-
-- **Technical enablement, community, and advocacy at scale**: Startup program activities will focus on ensuring participating startups are successful on GitHub, have a community around them for support, and are leveraged as advocates for GitHub.
-
-### ❤️ Mission
-Build an ecosystem that accelerates the adoption of GitHub in the world's most promising startups.
-
-### 👨‍💻 Program Pillars
-**Startup offer** 
 - _Free GitHub Enterprise_: 20 seats of GHE for 12 months for year 1 and and additional 50% off 20 seats in year 2 for portfolio companies **affiliated with a GitHub for Startups partner.** 
 - _Tailored product guidance_: Startup-friendly onboarding and in-product experience, office hours, and technical best practice sharing.
 
@@ -53,4 +37,4 @@ Build an ecosystem that accelerates the adoption of GitHub in the world's most p
  
  ## Program Engagement
 
-Our startup program mixes in person educational and networking events, live and pre-recroded educational content, and much more. Always keep up with what's going on by checking our [Engage Page](https://github.com/GitHub-for-Startups/Global-Repo/blob/main/Community%20Engage%20Page.md)!
+Our startup program mixes in person educational and networking events, live and pre-recroded educational content, and much more. Always keep up with what's going on by checking our [Startup Community Page](https://github.com/GitHub-for-Startups/Global-Repo/blob/main/Community%20Engage%20Page.md)!
