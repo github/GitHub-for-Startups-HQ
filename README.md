@@ -25,7 +25,7 @@ GitHub for Startups helps drive startup success through providing startups educa
 </summary>
  
 
-- [**GitHub for Startups Program Guide**](https://docs.google.com/document/d/1D9h0PFiXEiQsImh2ijk9QuZuElF9ANxz5NXGHacVw7E/edit?usp=sharing): For common questions you might have about the program.
+- [**GitHub for Startups Program Guide**](https://github.com/GitHub-for-Startups/Global-Repo/blob/main/Program%20Guide.md): For common questions you might have about the program.
 
 - **[Marketing/Programming Calendar](https://sharing.clickup.com/20627329/c/h/4-38571873-5/53a3d4ff74ab4e4)**: Up to date calendar of all events and programming. 
 
