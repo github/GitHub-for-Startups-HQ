@@ -8,7 +8,7 @@ Welcome to the GitHub for Startups program. We’re excited to partner with you 
 
 > Interested in partnering? Learn more and [apply here](https://github.com/enterprise/startups#join-partners).
 
-## Partner Resources
+## Partner Assets
 <details><summary>
 📝 Click here
 
