@@ -38,9 +38,11 @@ Questions? Reach the GitHub startup team at [startups@github.com](startups.githu
 </details> 
 
 <details><summary>
-🎓 Additional GitHub Resources
+🎓 Partner Resources
 
 </summary>
+
+- [GitHub for Startups Partner Kit.pdf](https://github.com/GitHub-for-Startups/Global-Repo/files/12315898/23_GFS.Partner.Kit.pdf)
 
 
 - [Customer Stories](https://github.com/customer-stories?type=enterprise): Meet the companies who build with GitHub.
