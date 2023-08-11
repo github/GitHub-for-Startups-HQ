@@ -18,11 +18,9 @@ GitHub for Startups helps drive startup success through providing startups educa
 - _Tailored product guidance_: Startup-friendly onboarding and in-product experience, office hours, and technical best practice sharing.
 
 
-</details> 
 
-<details><summary>
-📝 Additional Program Resources
-</summary>
+**📝 Additional Program Resources**
+
  
 
 - [**GitHub for Startups Program Guide**](https://github.com/GitHub-for-Startups/Global-Repo/blob/main/Program%20Guide.md): For common questions you might have about the program.
@@ -32,7 +30,7 @@ GitHub for Startups helps drive startup success through providing startups educa
 - [**GFS YouTube Channel**](https://www.youtube.com/playlist?list=PL0lo9MOBetEG3s9zocf4H1UiaS44ZL-W0): Keep up on all the live and virtual educational sessions we've put on for companies like you.
 
  - **[GitHub Documentation](https://docs.github.com/en)**: I need of some extra help? This is the place for you to get documentation on anything you may need. 
-</details> 
+
  
  
  ## Program Engagement
