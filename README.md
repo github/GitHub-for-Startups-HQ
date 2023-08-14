@@ -51,8 +51,6 @@ Our startup program mixes in person educational and networking events, live and 
 
 - 🤝 Zendesk for Startups I The complete customer service solution: Apply [here](https://www.zendesk.com/campaign/partner-startups/?partner_account=0016R00003GU5buQAD).
 
-- 🌎 Deel for Startups I Global payroll and compliance: Apply [here](https://www.deel.com/partners/github?gspk=Y29yZXlkb2xpazQzNTE&gsxid=Zgfro12zYPCB&pscd=get.deel.com).
-
 - 💳 Brex I Your all-in-one financial stack: Apply [here](https://www.brex.com/solutions/startups?partnerId=githubforstartups).
 
 - ✌️ AngelList I Cap table, fundraising, banking - all in one place: Apply [here](https://www.angellist.com/startups). Code: “GithubAngelList1414” at checkout.
