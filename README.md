@@ -5,7 +5,7 @@
 
 ## Our Program
 
-GitHub for Startups helps drive startup success through educational content, networking opportunites and a founder focused ecosystem that supports you as you grow. We create, develop, and grow technology and venture partnerships that improve the founder’s and their developers, experience on GitHub. 
+GitHub for Startups helps drive startup success through educational content, networking opportunites, and a founder focused ecosystem that supports you as you grow. We create, develop, and grow technology and venture partnerships that improve the founder’s and their developers, experience on GitHub. 
 
 **🖋️ Startup Eligibility** 
 - Must be an early-stage startup that is funded (up to  Series A) or associated with a GitHub for Startups partner. This can be an investor, accelerator, or startup support organization.  **A full list of GitHub for Startups partners can be found [here](https://github.com/enterprise/startups/partners).**
