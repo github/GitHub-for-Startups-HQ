@@ -16,18 +16,19 @@ Welcome to the GitHub for Startups program. We’re excited to partner with you 
 
 - [GitHub for Startups Partner Kit.pdf](https://github.com/GitHub-for-Startups/Global-Repo/files/12315898/23_GFS.Partner.Kit.pdf)
 
-- [Customer Stories](https://github.com/customer-stories?type=enterprise): Meet the companies who build with GitHub.
-
-- [About GitHub Enterprise](https://github.com/customer-stories?type=enterprise)
-  
 - [Access GitHub's logos](https://github.com/logos)
 
-Language for sharing our partnership
+- [About GitHub Enterprise](https://github.com/customer-stories?type=enterprise)
+
+- [Customer Stories](https://github.com/customer-stories?type=enterprise)
+
+**Language for sharing our partnership**
 
 </summary>
-Hi Founders,
 
-We’re partnering with GitHub for Startups to offer special access to GitHub Enterprise, free for one year (50% off year two), for eligible startups in our ecosystem.
+Hi founders,
+
+Happy to announce we've partnered with [GitHub for Startups](startups.github.com) to provide you with access to their program, which includes up to 20 seats of GitHub Enterprise free for one year (50% off year two), for eligible startups.
 
 > To get started, use our unique partner link to apply.
 
