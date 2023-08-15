@@ -45,6 +45,17 @@ Eligibility:
 
 Questions? Reach the GitHub startup team at [startups@github.com](startups.github.com)
 
-
-
 </details> 
+
+## Select Portfolio Opportunities
+<details><summary>
+🚀 Click here
+
+
+</summary>
+
+Have an exciting portfolio company we should consider? Encourage them to apply! Be sure to flag any applications to your partnerships lead for expedited review.
+
+- **Founder livestream**: Our new founder series, "[Start It Up Wednesday](https://www.youtube.com/playlist?list=PL0lo9MOBetEG3s9zocf4H1UiaS44ZL-W0)," where founders share what they're building with the entire GitHub community over GitHub's socials. [Application Form](https://forms.gle/tzRFRKMBxmSXfdPk9)
+
+- **Startup Customer Case Study**: We're accepting GitHub acceleration stories to share with the world [here](https://github.com/customer-stories?type=enterprise). [Application Form](https://forms.gle/tzRFRKMBxmSXfdPk9)
