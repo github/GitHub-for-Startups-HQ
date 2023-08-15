@@ -35,7 +35,7 @@ GitHub for Startups helps drive startup success through educational content, net
  
  ## Program Engagement
 
-Our startup program mixes in person education and networking events, live and pre-recroded educational content, and much more. You can always keep up with what's going on by checking our [Startup Community Page](https://github.com/GitHub-for-Startups/Global-Repo/blob/main/Community%20Engage%20Page.md)!
+Our startup program mixes in person education and networking events, live and pre-recorded content, and much more. You can always keep up with what's going on by checking our [Startup Community Page](https://github.com/GitHub-for-Startups/Global-Repo/blob/main/Community%20Engage%20Page.md)!
 
  ## Partner Offers
 
