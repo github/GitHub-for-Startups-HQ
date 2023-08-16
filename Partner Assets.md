@@ -14,13 +14,13 @@ Welcome to the GitHub for Startups program. We’re excited to partner with you 
 
 </summary>
 
-- [GitHub for Startups Partner Kit.pdf](https://github.com/GitHub-for-Startups/Global-Repo/files/12315898/23_GFS.Partner.Kit.pdf)
-
 - [Access GitHub's logos](https://github.com/logos)
 
-- [About GitHub Enterprise](https://github.com/customer-stories?type=enterprise)
+- [About GitHub Enterprise](https://github.com/enterprise)
+  
+- [GitHub Enterprise Features](https://github.com/enterprise)
 
-- [Customer Stories](https://github.com/customer-stories?type=enterprise)
+- [GitHub Customer Stories](https://github.com/customer-stories?type=enterprise)
 
 **Language for sharing our partnership**
 
@@ -54,8 +54,10 @@ Questions? Reach the GitHub startup team at [startups@github.com](startups.githu
 
 </summary>
 
-Have an exciting portfolio company we should consider? Encourage them to apply! Be sure to flag any applications to your partnerships lead for expedited review.
+Have an exciting portfolio company using GitHub we should consider either of these opportunities? Encourage them to apply! Be sure to flag any applications to your partnerships lead for expedited review.
 
-- **Founder livestream**: Our new founder series, "[Start It Up Wednesday](https://www.youtube.com/playlist?list=PL0lo9MOBetEG3s9zocf4H1UiaS44ZL-W0)," where founders share what they're building with the entire GitHub community over GitHub's socials. [Application Form](https://forms.gle/tzRFRKMBxmSXfdPk9).
+> **Founder livestream**: Our new founder series, "[Start It Up Wednesday](https://www.youtube.com/playlist?list=PL0lo9MOBetEG3s9zocf4H1UiaS44ZL-W0)," where founders share what they're building with the entire GitHub community over GitHub's socials.
+- [Application Form](https://forms.gle/tzRFRKMBxmSXfdPk9).
 
-- **Startup Customer Case Study**: We're accepting GitHub acceleration stories to share with the world [here](https://github.com/customer-stories?type=enterprise). [Application Form](https://forms.gle/tzRFRKMBxmSXfdPk9).
+> **Startup Customer Case Study**: We're accepting GitHub acceleration stories to share with the world [here](https://github.com/customer-stories?type=enterprise).
+- [Application Form](https://forms.gle/tzRFRKMBxmSXfdPk9).
