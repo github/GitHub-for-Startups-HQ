@@ -18,7 +18,7 @@ Welcome to the GitHub for Startups program. We’re excited to partner with you 
 
 - [About GitHub Enterprise](https://github.com/enterprise)
   
-- [GitHub Enterprise Features](https://github.com/enterprise)
+- [GitHub Enterprise Features](https://github.com/pricing)
 
 - [GitHub Customer Stories](https://github.com/customer-stories?type=enterprise)
 
