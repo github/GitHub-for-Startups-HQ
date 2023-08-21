@@ -16,7 +16,7 @@ Welcome to the GitHub for Startups program. We’re excited to partner with you 
 
 - [Access GitHub's logos](https://github.com/logos)
 
-- [About GitHub Enterprise](https://github.com/enterprise)
+- [Deck_The GitHub Platform](https://github.com/GitHub-for-Startups/GitHub-for-Startups-HQ/files/12398085/The.GitHub.Platform.pdf)
   
 - [GitHub Enterprise Features](https://github.com/pricing)
 
