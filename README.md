@@ -25,7 +25,7 @@ GitHub for Startups helps drive startup success through educational content, net
 
 - [**GitHub for Startups Program Guide**](https://github.com/GitHub-for-Startups/Global-Repo/blob/main/Program%20Guide.md): For common questions you might have about the program.
 
-- **[Programming Calendar](https://sharing.clickup.com/20627329/c/h/4-38571873-5/53a3d4ff74ab4e4)**: Up to date calendar of all events and programming. 
+- **[Programming Calendar](https://github.com/GitHub-for-Startups/GitHub-for-Startups-HQ/blob/main/Startup%20Community%20Page.md)**: Up to date calendar of all events and programming. 
 
 - [**GFS YouTube Channel**](https://www.youtube.com/playlist?list=PL0lo9MOBetEG3s9zocf4H1UiaS44ZL-W0): Keep up on all the live and virtual educational sessions we've put on for companies like you.
 
