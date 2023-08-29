@@ -11,7 +11,7 @@ This is a stream that gets you in front of the entire GitHub community to talk a
 
 **Customer Case Study**
 
-Have an interesting story that you want to share with our team? We're always looking to highlight companies that are innovating for the future on GitHub. Apply to be featured [here](https://forms.gle/tzRFRKMBxmSXfdPk9).
+Have an interesting story that you want to share with our team? We're always looking to highlight companies that are innovating for the future on GitHub. Apply to be featured [here](https://forms.gle/175xEnvqCwjPfMBz5).
 
 ### Events
 
