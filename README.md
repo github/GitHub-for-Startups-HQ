@@ -58,3 +58,5 @@ Our startup program mixes in person education and networking events, live and pr
 - 🔍 Algolia Startup Program I Search and discovery platform: Apply [here](https://www.algolia.com/industries-and-solutions/startups/?utm_source=github&tf_5155386403601=github).
 
 - 💸 Capchase I Non-dilutive growth financing: Apply [here](https://www.capchase.com/partners/github-for-startups).
+
+- 📤 DocSend I Secure pitch deck and fundraising platform: Apply [here](https://try.docsend.com/github).
