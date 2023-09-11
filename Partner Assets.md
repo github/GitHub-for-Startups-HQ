@@ -22,7 +22,7 @@ Welcome to the GitHub for Startups program. We’re excited to partner with you 
 
 - [GitHub Customer Stories](https://github.com/customer-stories?type=enterprise)
 
-**Language for sharing our partnership:**
+***Language for sharing our partnership:***
 
 </summary>
 
@@ -45,7 +45,7 @@ Eligibility:
 
 Questions? Reach the GitHub startup team at [startups@github.com](startups.github.com)
 
-**How we bring startups into GitHub for Startups:**
+***How we bring startups into GitHub for Startups:***
 1. Share your unique partner link provided in your partnership welcome email.
 2. Startup application is responded to in 1-2 days.
 3. If eligible, they’re welcomed into our program.
