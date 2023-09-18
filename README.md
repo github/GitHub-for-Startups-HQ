@@ -45,7 +45,7 @@ Our startup program mixes in person education and networking events, live and pr
 
 - 🧑‍💻 Retool for Startups I Low-code development platform: Apply [here](https://retool.typeform.com/to/qGcaOOHW?typeform-source=www.google.com#partnername=github).
 
-- 📊 Segment for Startups I Customer data platform: Apply [here](https://airtable.com/appWuAJMn1DPivGcE/shrLP3GSZnxt1WT2v?prefill_Partner%20Code=startups.github.com&hide_Partner%20Code=true&hide_Segment%20Code=true). 
+- 🏢 Segment for Startups I Customer data platform: Apply [here](https://airtable.com/appWuAJMn1DPivGcE/shrLP3GSZnxt1WT2v?prefill_Partner%20Code=startups.github.com&hide_Partner%20Code=true&hide_Segment%20Code=true). 
 
 - 🌎 Deel for Startups I Global payroll and compliance: Apply [here](https://www.deel.com/partners/github?gspk=Y29yZXlkb2xpazQzNTE&gsxid=Zgfro12zYPCB&pscd=get.deel.com).
 
@@ -60,3 +60,5 @@ Our startup program mixes in person education and networking events, live and pr
 - 💸 Capchase I Non-dilutive growth financing: Apply [here](https://www.capchase.com/partners/github-for-startups).
 
 - 📤 DocSend I Secure pitch deck and fundraising platform: Apply [here](https://try.docsend.com/github).
+
+- 📊 Datadog for Startups I Real-time infrastructure and application performance monitoring: Apply [here](https://www.datadoghq.com/partner/datadog-for-startups/).
