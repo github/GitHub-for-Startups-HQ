@@ -36,9 +36,9 @@ The GitHub startup team will review your app within 1-2 business days and follow
 
 GitHub for Startups Program Overview:
 
-GitHub is the leading AI-powered developer platform to build, scale, and deliver secure software. GitHub helps startups plan, track, collaborate, build, test, and deploy software with a holistic and secure platform that scales with them. As part of GitHub for Startups, eligible startups receive:
+GitHub is the leading AI-powered developer platform to build, scale, and deliver secure software. As part of GitHub for Startups, eligible startups receive:
 
-- 20 Seats of GitHub Enterprise free for one year and 50% off in year two. Plus, office hours, live education, and networking across GitHub's global community.
+- 20 Seats of GitHub Enterprise free for one year and 50% off in year two. Plus, live education, GTM support, and networking across GitHub's global community.
 
 Eligibility:
 - Must be Series A or earlier, new to GitHub Enterprise, and a portfolio company.
