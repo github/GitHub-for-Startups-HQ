@@ -35,6 +35,17 @@ GitHub for Startups helps drive startup success through educational content, net
 
 Our startup program mixes in person education and networking events, live and pre-recorded content, and much more. You can always keep up with what's going on by looking out for our monthly newsletter, as well as any emails you recieve from startups@github.com. We do our best to make sure any email you recieve from us is beneficial in some capacity, so don't send us to spam! 😊
 
+### Would you like to be featured?
+
+**Start It Up Wednesday**
+
+This is a stream that gets you in front of the entire GitHub community to talk about you, your startup, and the journey for both. Apply to be featured [here](https://forms.gle/tzRFRKMBxmSXfdPk9).
+
+**Customer Case Study**
+
+Have an interesting story that you want to share with our team? We're always looking to highlight companies that are innovating for the future on GitHub. Apply to be featured [here](https://forms.gle/175xEnvqCwjPfMBz5).
+
+
  ## Partner Offers
 
 - 📓 Notion for Startups I The connected workspace: Apply [here](https://www.notion.so/startups?utm_medium=partner&utm_source=startup_partner&utm_campaign=startup-program-partner-githubforstartups). Code “STARTUP4110P36612”.
