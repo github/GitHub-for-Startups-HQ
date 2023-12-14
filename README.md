@@ -27,7 +27,7 @@ GitHub for Startups helps drive startup success through educational content, net
 
 - [**GFS YouTube Channel**](https://www.youtube.com/playlist?list=PL0lo9MOBetEG3s9zocf4H1UiaS44ZL-W0): Keep up on all the live and virtual educational sessions we've put on for companies like you.
 
- - **[GitHub Documentation](https://docs.github.com/en)**: I need of some extra help? This is the place for you to get documentation on anything you may need. 
+ - **[GitHub Documentation](https://docs.github.com/en)**: In need of some extra help? This is the place for you to get documentation on anything you may need. 
 
  
  
