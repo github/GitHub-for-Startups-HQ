@@ -8,17 +8,14 @@ Welcome to the GitHub for Startups program. We’re excited to partner with you 
 
 > Interested in partnering? Learn more and [apply here](https://github.com/enterprise/startups#join-partners).
 
-## Content for sharing our partnership
+## Sharing our partnership
 <details><summary>
 📝 Click here
 
 </summary>
 
-- [Access GitHub's logos](https://github.com/logos)
 
-- [Deck_The GitHub Platform](https://github.com/GitHub-for-Startups/GitHub-for-Startups-HQ/files/12398085/The.GitHub.Platform.pdf)
-  
-- [GitHub Enterprise Features](https://github.com/pricing)
+**- [Access GitHub's Logos](https://github.com/logos)**
 
 ***How we bring startups into GitHub for Startups:***
 1. Share your unique partner link provided in your partnership welcome email.
