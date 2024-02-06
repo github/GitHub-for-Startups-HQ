@@ -8,7 +8,7 @@ Welcome to the GitHub for Startups program. We’re excited to partner with you 
 
 > Interested in partnering? Learn more and [apply here](https://github.com/enterprise/startups#join-partners).
 
-## Partner Assets
+## Content for sharing our partnership
 <details><summary>
 📝 Click here
 
@@ -20,7 +20,10 @@ Welcome to the GitHub for Startups program. We’re excited to partner with you 
   
 - [GitHub Enterprise Features](https://github.com/pricing)
 
-- [GitHub Customer Stories](https://github.com/customer-stories?type=enterprise)
+***How we bring startups into GitHub for Startups:***
+1. Share your unique partner link provided in your partnership welcome email.
+2. Startup application is responded to in 1-2 days.
+3. If eligible, they’re welcomed into our program.
 
 ***Language for sharing our partnership:***
 
@@ -28,27 +31,17 @@ Welcome to the GitHub for Startups program. We’re excited to partner with you 
 
 Hi founders,
 
-Happy to announce we've partnered with [GitHub for Startups](startups.github.com) to provide you with access to their program, which includes up to 20 seats of GitHub Enterprise free for one year (50% off year two), for eligible startups.
+Happy to share that we've partnered with GitHub for Startups, a program dedicated to accelerating early-stage companies building with GitHub. It includes startup-friendly pricing, GTM support, and opportunities across their global startup community.
 
-> To get started, use our unique partner link to apply.
+> Apply here to get started.
+- The startup team will respond to your application within a few business days.
 
-The GitHub startup team will review your app within 1-2 business days and follow up with a confirmation email. Email startups@github.com with any questions.
+**Offer:**
+- Up to 20 seats of [GitHub Enterprise](https://github.com/pricing), free for one year (50% off year two).
+- {NEW} Up to 20 seats of [GitHub Advanced Security](https://resources.github.com/contact/security/), 50% off for one year (25% off year two).
+  * If you’re interested in Advanced Security, reach out to startups@github.com as it’s not yet published. 
 
-GitHub for Startups Program Overview:
-
-GitHub is the leading AI-powered developer platform to build, scale, and deliver secure software. As part of GitHub for Startups, eligible startups receive:
-
-- 20 Seats of GitHub Enterprise free for one year and 50% off in year two. Plus, live education, GTM support, and networking across GitHub's global community.
-
-Eligibility:
-- Must be Series A or earlier, new to GitHub Enterprise, and a portfolio company.
-
-Questions? Reach the GitHub startup team at [startups@github.com](startups.github.com)
-
-***How we bring startups into GitHub for Startups:***
-1. Share your unique partner link provided in your partnership welcome email.
-2. Startup application is responded to in 1-2 days.
-3. If eligible, they’re welcomed into our program.
+**Eligibility:** Must be a portfolio company, Series A or earlier, and new to these products.
 
 </details> 
 
