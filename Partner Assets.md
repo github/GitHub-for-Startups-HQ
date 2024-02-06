@@ -10,19 +10,19 @@ Welcome to the GitHub for Startups program. We’re excited to partner with you 
 
 ## Sharing our partnership
 <details><summary>
-📝 Click here
+🔊 Click here
 
 </summary>
 
 
-**- [Access GitHub's Logos](https://github.com/logos)**
-
-***How we bring startups into GitHub for Startups:***
+> ***How we bring startups into GitHub for Startups:***
 1. Share your unique partner link provided in your partnership welcome email.
 2. Startup application is responded to in 1-2 days.
 3. If eligible, they’re welcomed into our program.
 
-***Language for sharing our partnership:***
+> **[Access GitHub's Logos](https://github.com/logos)**
+
+> ***Language for sharing our partnership:***
 
 </summary>
 
@@ -30,7 +30,7 @@ Hi founders,
 
 Happy to share that we've partnered with GitHub for Startups, a program dedicated to accelerating early-stage companies building with GitHub. It includes startup-friendly pricing, GTM support, and opportunities across their global startup community.
 
-> Apply here to get started.
+Apply here to get started.
 - The startup team will respond to your application within a few business days.
 
 **Offer:**
@@ -46,13 +46,11 @@ Happy to share that we've partnered with GitHub for Startups, a program dedicate
 <details><summary>
 🚀 Click here
 
-
 </summary>
 
-Have an exciting portfolio company using GitHub we should consider either of these opportunities? Encourage them to apply! Be sure to flag any applications to your partnerships lead for expedited review.
+Do you know of an exciting portfolio company that’s scaling with GitHub? 
+We’re actively seeking GitHub success stories to share with the world across case studies, live events, and more.
+Encourage them to apply for consideration in a variety of engagements with us. Be sure to flag any applications to your partnerships lead for expedited review.
 
-> **Founder livestream**: Our new founder series, "[Start It Up Wednesday](https://www.youtube.com/playlist?list=PL0lo9MOBetEG3s9zocf4H1UiaS44ZL-W0)," where founders share what they're building with the entire GitHub community over GitHub's socials.
-- [Application Form](https://forms.gle/tzRFRKMBxmSXfdPk9).
+- [GitHub Startup Success Story Nomination Form](https://forms.gle/C6chM5922xMnF22TA)
 
-> **Startup Customer Case Study**: We're accepting GitHub acceleration stories to share with the world [here](https://github.com/customer-stories?type=enterprise).
-- [Application Form](https://forms.gle/tzRFRKMBxmSXfdPk9).
