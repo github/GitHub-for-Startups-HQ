@@ -11,10 +11,9 @@ Welcome to the GitHub for Startups program. We’re excited to partner with you 
 ## Sharing our partnership
 <details><summary>
 🔊 Click here
-
 </summary>
 
-
+<span style="margin-right:20px;"></span>
 > ***How we bring startups into GitHub for Startups:***
 1. Share your unique partner link provided in your partnership welcome email.
 2. Startup application is responded to in 1-2 days.
@@ -47,6 +46,8 @@ Apply here to get started.
 🚀 Click here
 
 </summary>
+
+<span style="margin-right:20px;"></span>
 
 Do you know of an exciting portfolio company that’s scaling with GitHub? 
 We’re actively seeking GitHub success stories to share with the world across case studies, live events, and more.
