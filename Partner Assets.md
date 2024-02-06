@@ -27,17 +27,17 @@ Welcome to the GitHub for Startups program. We’re excited to partner with you 
 
 Hi founders,
 
-Happy to share that we've partnered with GitHub for Startups, a program dedicated to accelerating early-stage startups on the world's leading AI-powered developer platform. It includes startup-friendly pricing, GTM support, and opportunities across their global startup community.
+Happy to share we've partnered with GitHub for Startups, a program dedicated to accelerating early-stage companies with the world's leading AI-powered developer platform. It includes startup-friendly pricing, GTM support, and other benefits.
 
-Apply here to get started.
-- The startup team will respond to your application within a few business days.
+Apply here to get started (include your unique partner link)
+- Their startup team will respond within a few business days.
 
 **Offer:**
 - Up to 20 seats of [GitHub Enterprise](https://github.com/pricing), free for one year (50% off year two).
 - {NEW} Up to 20 seats of [GitHub Advanced Security](https://resources.github.com/contact/security/), 50% off for one year (25% off year two).
   * If you’re interested in Advanced Security, reach out to startups@github.com as it’s not yet published. 
 
-**Eligibility:** Must be a portfolio company, Series A or earlier, and new to these products.
+**Eligibility:** Must be a portfolio company, Series A or earlier, and new to each offer.
 
 </details> 
 
