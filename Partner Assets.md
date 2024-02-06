@@ -27,7 +27,7 @@ Welcome to the GitHub for Startups program. We’re excited to partner with you 
 
 Hi founders,
 
-Happy to share that we've partnered with GitHub for Startups, a program dedicated to accelerating early-stage companies building with GitHub. It includes startup-friendly pricing, GTM support, and opportunities across their global startup community.
+Happy to share that we've partnered with GitHub for Startups, a program dedicated to accelerating early-stage startups on the world's leading AI-powered developer platform. It includes startup-friendly pricing, GTM support, and opportunities across their global startup community.
 
 Apply here to get started.
 - The startup team will respond to your application within a few business days.
