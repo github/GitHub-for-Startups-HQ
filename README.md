@@ -39,6 +39,9 @@ Our startup program mixes in person education and networking events, live and pr
 
 From full platform GitHub stories, sponsored by our global marketing team, to joining us for one of our podcasts or short form videos, we'd love the opportunity to get to know you, your teams, and your companies much better. Help us identify you by using [THIS](https://docs.google.com/forms/d/1GQpwao5YRfDXnSoNbWEBzVatFTdh4zqXv5Xvgl0Uwa4/prefill) form. Fill it out for us and our team will get back to you as soon as we can.
 
+**Program Engagement Calendar**
+
+Keep up with our team's whereabouts by **subscribing** to our [GitHub for Startups calendar](https://lu.ma/githubforstartups) powered by Luma.
 
  ## Partner Offers
  <details><summary> 👇 Drop Down
