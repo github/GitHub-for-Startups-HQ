@@ -45,15 +45,12 @@ Apply here to get started (include your unique partner link)
 
 </details> 
 
-## Select Portfolio Opportunities
-<details><summary>
-🚀 Click here
-
-</summary>
+## 🚀 Select Portfolio Opportunities
 
 <span style="margin-right:20px;"></span>
 
 Do you know of an exciting portfolio company that’s scaling with GitHub? 
+
 We’re actively seeking GitHub success stories to share with the world across case studies, live events, and more.
 Encourage them to apply for consideration in a variety of engagements with us. Be sure to flag any applications to your partnerships lead for expedited review.
 
