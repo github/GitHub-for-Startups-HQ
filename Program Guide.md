@@ -4,7 +4,8 @@
 
 This guide was put together in order to better serve you in navigating all you need to know as it pertains to the program and setting up your GitHub account. If you have any questions or suggestions for additional content, please feel free to reach out to us using the expedited support link [HERE](https://support.github.com/contact?tags=hh-github-for-startups).
 
-**General Topics:**
+<details><summary> General Topics
+  </summary>
 
 [Types of GitHub accounts](https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts)
 
@@ -14,8 +15,9 @@ This guide was put together in order to better serve you in navigating all you n
 
 [What comes with the GFS Offer?](https://github.com/enterprise/startups)
 
-**Onboarding:**
-
+<details><summary> Onboarding
+</summary>
+  
 [Terms of Service upgrade](https://docs.github.com/en/organizations/managing-organization-settings/upgrading-to-the-corporate-terms-of-service)
 
 [Adding Organizations to your Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/user-management/managing-organizations-in-your-enterprise/adding-organizations-to-your-enterprise)
