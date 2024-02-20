@@ -2,7 +2,7 @@
 ![Screenshot 2023-08-09 at 1 56 47 PM](https://github.com/GitHub-for-Startups/Global-Repo/assets/104146251/be5cf99c-f3ac-4956-9152-d1ad9358356f)
 
 
-This guide was put together in order to better serve you in navigating all you need to know as it pertains to the program and setting up your GitHub account. If you have any questions or suggestions for additional content, please feel free to reach out to us at startups@github.com
+This guide was put together in order to better serve you in navigating all you need to know as it pertains to the program and setting up your GitHub account. If you have any questions or suggestions for additional content, please feel free to reach out to us using the expedited support link [HERE](https://support.github.com/contact?tags=hh-github-for-startups).
 
 **General Topics:**
 
