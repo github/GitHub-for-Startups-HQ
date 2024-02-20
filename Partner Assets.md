@@ -3,7 +3,7 @@
 
 [Apply to be a GitHub for Startups partner](https://github.com/enterprise/startups#join-partners)
 &nbsp;•&nbsp;
-[Partner with GitHub](https://partner.github.com/)
+[Partnering with GitHub](https://partner.github.com/)
 &nbsp;•&nbsp;
 [Access GitHub's Logos](https://github.com/logos)
 &nbsp;•&nbsp;
@@ -14,16 +14,15 @@ Welcome to the GitHub for Startups program. We’re excited to partner with you 
 
 ## Sharing our partnership
 <details><summary>
-🔊 Click here
+🔊 Drop Down
 </summary>
 
-<span style="margin-right:20px;"></span>
-> ***How we bring startups into GitHub for Startups:***
-1. Share your unique partner link provided in your partnership welcome email.
-2. Startup application is responded to in 1-2 days.
-3. If eligible, they’re welcomed into our program.
+**Application Timeline**
+Action| Response time
+------------- | -------------
+📃 Share your unique partner link provided in your partnership welcome email. | ⏳ Allow up to 24 hours to recieve acknowlegement of your application.
+⏱ Application review to check eligibility. | 🧮 Processing of the application can take up to 5 days (based on our backlog).
 
-> **[Access GitHub's Logos](https://github.com/logos)**
 
 > ***Language for sharing our partnership:***
 
@@ -38,8 +37,9 @@ Apply here to get started (include your unique partner link)
 
 **Offer:**
 - Up to 20 seats of [GitHub Enterprise](https://github.com/pricing), free for one year (50% off year two).
-- {NEW} Up to 20 seats of [GitHub Advanced Security](https://resources.github.com/contact/security/), 50% off for one year (25% off year two).
-  * If you’re interested in Advanced Security, reach out to startups@github.com as it’s not yet published. 
+- Up to 20 seats of [GitHub Advanced Security](https://resources.github.com/contact/security/), 50% off for one year (25% off year two).
+
+  **If you’re interested in Advanced Security, reach out to startups@github.com as it’s not yet published.**
 
 **Eligibility:** Must be a portfolio company, Series A or earlier, and new to each offer.
 
