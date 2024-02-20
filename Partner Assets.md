@@ -7,6 +7,7 @@
 &nbsp;•&nbsp;
 [Access GitHub's Logos](https://github.com/logos)
 &nbsp;•&nbsp;
+[Create a Support Ticket](https://support.github.com/contact?tags=hh-github-for-startups)
 
 Welcome to the GitHub for Startups program. We’re excited to partner with you to help your startups build and scale on GitHub. This page contains all of the resources you need to share GitHub with your startups.
 
