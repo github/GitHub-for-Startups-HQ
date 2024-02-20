@@ -47,7 +47,9 @@ Have an interesting story that you want to share with our team? We're always loo
 
 
  ## Partner Offers
-
+ <details><summary> 👇 Drop Down
+ </summary>
+   
 - 📓 Notion for Startups I The connected workspace: Apply [here](https://www.notion.so/startups?utm_medium=partner&utm_source=startup_partner&utm_campaign=startup-program-partner-githubforstartups). Code “STARTUP4110P36612”.
 
 - 🔐 Auth0 for Startups, powered by Okta I Modern Identity Management: Apply [here](https://autheco.atlassian.net/servicedesk/customer/portal/4/group/9/create/104).
@@ -71,3 +73,4 @@ Have an interesting story that you want to share with our team? We're always loo
 - 📤 DocSend I Secure pitch deck and fundraising platform: Apply [here](https://try.docsend.com/github).
 
 - 📊 Datadog for Startups I Real-time infrastructure and application performance monitoring: Apply [here](https://www.datadoghq.com/partner/datadog-for-startups/).
+ </details>
