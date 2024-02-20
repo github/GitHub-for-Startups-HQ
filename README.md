@@ -7,7 +7,11 @@
 
 GitHub for Startups helps drive startup success through educational content, networking opportunities, and a founder focused ecosystem that supports you as you grow. We create, develop, and grow technology and venture partnerships that improve the founder’s and their developers, experience on GitHub. 
 
-**🖋️ Startup Eligibility** 
+<details><summary>  More Program Information
+  </summary>
+ 
+ **🖋️ Startup Eligibility** 
+
 - Must be an early-stage startup that is funded (up to  Series A) or associated with a GitHub for Startups partner. This can be an investor, accelerator, or startup support organization.  **A full list of GitHub for Startups partners can be found [here](https://github.com/enterprise/startups/partners).**
 - Must not be a current GitHub Enterprise customer or have previously received credits for GitHub Enterprise
 
@@ -17,11 +21,7 @@ GitHub for Startups helps drive startup success through educational content, net
 - _Free GitHub Enterprise_: 20 seats of GHE for 12 months for year 1 and and additional 50% off 20 seats in year 2 for portfolio companies **affiliated with a GitHub for Startups partner.** 
 - _Tailored product guidance_: Startup-friendly onboarding and in-product experience, office hours, and technical best practice sharing.
 
-
-
 **📝 Additional Program Resources**
-
- 
 
 - [**GitHub for Startups Program Guide**](https://github.com/GitHub-for-Startups/Global-Repo/blob/main/Program%20Guide.md): For common questions you might have about the program.
 
@@ -29,7 +29,6 @@ GitHub for Startups helps drive startup success through educational content, net
 
  - **[GitHub Documentation](https://docs.github.com/en)**: In need of some extra help? This is the place for you to get documentation on anything you may need. 
 
- 
  
  ## Program Engagement
 
