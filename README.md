@@ -29,6 +29,7 @@ GitHub for Startups helps drive startup success through educational content, net
 
  - **[GitHub Documentation](https://docs.github.com/en)**: In need of some extra help? This is the place for you to get documentation on anything you may need. 
 
+</details>
  
  ## Program Engagement
 
