@@ -24,7 +24,8 @@ GitHub for Startups helps drive startup success through educational content, net
 
 **👨‍💻 Startup Benefits**
 
-- _Free GitHub Enterprise_: 20 seats of GHE for 12 months for year 1 and and additional 50% off 20 seats in year 2 for portfolio companies **affiliated with a GitHub for Startups partner.** 
+- _Free GitHub Enterprise_: 20 seats of GHE for 12 months for year 1 and and additional 50% off 20 seats in year 2 for portfolio companies **affiliated with a GitHub for Startups partner.**
+- [_Free GitHub Advanced Security_](https://resources.github.com/contact/security/): 20 seats of GHAS for 12 months for year 1 and and additional 50% off 20 seats in year 2 for portfolio companies **affiliated with a GitHub for Startups partner.**
 - _Tailored product guidance_: Startup-friendly onboarding and in-product experience, office hours, and technical best practice sharing.
 
 **📝 Additional Program Resources**
