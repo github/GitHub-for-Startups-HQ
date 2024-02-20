@@ -50,6 +50,10 @@ From full platform GitHub stories, sponsored by our global marketing team, to jo
 
 Keep up with our team's whereabouts by **subscribing** to our [GitHub for Startups calendar](https://lu.ma/githubforstartups) powered by Luma.
 
+🚸 **Want to host a startup community event at GitHub HQ??**
+
+We'd love to support the startup community by hosting events at any of our HQ offices around the globe. Reach out the the startup team at startups@github.com and let us know how we can support you in furthering tech in your commnunities.
+
  ## Partner Offers
  <details><summary> 👇 Drop Down
  </summary>
