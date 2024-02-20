@@ -15,6 +15,8 @@ This guide was put together in order to better serve you in navigating all you n
 
 [What comes with the GFS Offer?](https://github.com/enterprise/startups)
 
+</details>
+
 <details><summary> Onboarding
 </summary>
   
@@ -24,8 +26,11 @@ This guide was put together in order to better serve you in navigating all you n
 
 [Converting User → Organization](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-personal-account/converting-a-user-into-an-organization)
 
-**Roles & People:**
+</details>
 
+<details><summary> Roles & People
+</summary>
+  
 [Roles in an Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/user-management/managing-users-in-your-enterprise/roles-in-an-enterprise)
 
 [Inviting others to manage your Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/user-management/managing-users-in-your-enterprise/inviting-people-to-manage-your-enterprise)
@@ -36,18 +41,29 @@ This guide was put together in order to better serve you in navigating all you n
 
 [Managing organization members within your Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/user-management/managing-users-in-your-enterprise/managing-organization-members-in-your-enterprise)
 
-**Copilot for Business:**
+</details>
 
+<details><summary> Copilot for Business
+</summary>
+  
 [About Copilot for Business](https://docs.github.com/en/enterprise-cloud@latest/copilot/overview-of-github-copilot/about-github-copilot-for-business)
 
 [Configuring Copilot settings in your organization](https://docs.github.com/en/enterprise-cloud@latest/copilot/configuring-github-copilot/configuring-github-copilot-settings-in-your-organization)
 
-**Pricing:**
+</details>
 
+<details><summary> Pricing
+</summary>
+  
 [General pricing](https://github.com/pricing)
 
 [Pricing calculator](https://github.com/pricing/calculator?feature=actions)
 
-**Termination:**
+</details>
 
+<details><summary> Termination
+</summary>
+  
 [Remove organizations from your Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/user-management/managing-organizations-in-your-enterprise/removing-organizations-from-your-enterprise)
+
+</details>
