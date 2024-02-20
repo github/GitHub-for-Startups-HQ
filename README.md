@@ -1,7 +1,9 @@
 # GitHub for Startups
 ![Screenshot 2023-02-14 at 9 19 25 AM](https://user-images.githubusercontent.com/104146251/218780432-672ddba0-ac7f-4990-8e8d-9428cddc6ccb.png)
 
-
+[Browse GitHub Marketplace](https://github.com/marketplace?type=)
+&nbsp;•&nbsp;
+[Create a Support Ticket](https://support.github.com/contact?tags=hh-github-for-startups)
 
 ## Our Program
 
