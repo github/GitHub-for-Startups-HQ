@@ -35,11 +35,11 @@ GitHub for Startups helps drive startup success through educational content, net
 
 Our startup program mixes in person education and networking events, live and pre-recorded content, and much more. You can always keep up with what's going on by looking out for our monthly newsletter, as well as any emails you recieve from startups@github.com. We do our best to make sure any email you recieve from us is beneficial in some capacity, so don't send us to spam! 😊
 
-**Would you like to be featured?**
+📓 **Would you like to be featured?**
 
 From full platform GitHub stories, sponsored by our global marketing team, to joining us for one of our podcasts or short form videos, we'd love the opportunity to get to know you, your teams, and your companies much better. Help us identify you by using [THIS](https://docs.google.com/forms/d/1GQpwao5YRfDXnSoNbWEBzVatFTdh4zqXv5Xvgl0Uwa4/prefill) form. Fill it out for us and our team will get back to you as soon as we can.
 
-**Program Engagement Calendar**
+📆 **Program Engagement Calendar**
 
 Keep up with our team's whereabouts by **subscribing** to our [GitHub for Startups calendar](https://lu.ma/githubforstartups) powered by Luma.
 
