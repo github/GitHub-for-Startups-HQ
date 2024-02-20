@@ -11,7 +11,7 @@ This guide was put together in order to better serve you in navigating all you n
 
 - [GitHub Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-for-enterprises)
 
-- [Best Practices](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/best-practices-for-enterprises)
+- [GitHub Enterprise Best Practices](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/best-practices-for-enterprises)
 
 - [What comes with the GFS Offer?](https://github.com/enterprise/startups)
 
