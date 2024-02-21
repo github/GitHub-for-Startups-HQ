@@ -9,7 +9,7 @@
 &nbsp;•&nbsp;
 [GitHub Documentation](https://docs.github.com/en)
 
-## Our Program
+## About GitHub for Startups
 
 GitHub for Startups helps drive startup success through educational content, networking opportunities, and a founder focused ecosystem that supports you as you grow. We create, develop, and grow technology and venture partnerships that improve the founder’s and their developers, experience on GitHub. 
 
@@ -38,7 +38,7 @@ GitHub for Startups helps drive startup success through educational content, net
 
 </details>
  
- ## Program Engagement
+ ## Program Resources and Events
 
 Our startup program mixes in person education and networking events, live and pre-recorded content, and much more. You can always keep up with what's going on by looking out for our monthly newsletter, as well as any emails you recieve from startups@github.com. We do our best to make sure any email you recieve from us is beneficial in some capacity, so don't send us to spam! 😊
 
@@ -46,7 +46,7 @@ Our startup program mixes in person education and networking events, live and pr
 
 From full platform GitHub stories, sponsored by our global marketing team, to joining us for one of our podcasts or short form videos, we'd love the opportunity to get to know you, your teams, and your companies much better. Help us identify you by using [THIS](https://docs.google.com/forms/d/1GQpwao5YRfDXnSoNbWEBzVatFTdh4zqXv5Xvgl0Uwa4/prefill) form. Fill it out for us and our team will get back to you as soon as we can.
 
-📆 **Program Engagement Calendar**
+📆 **Program Event Calendar**
 
 Keep up with our team's whereabouts by **subscribing** to our [GitHub for Startups calendar](https://lu.ma/githubforstartups) powered by Luma.
 
@@ -54,10 +54,11 @@ Keep up with our team's whereabouts by **subscribing** to our [GitHub for Startu
 
 We'd love to support the startup community by hosting events at any of our HQ offices around the globe. Reach out the the startup team at startups@github.com and let us know how we can support you in furthering tech in your commnunities.
 
- ## Partner Offers
+ ## Partner Deals and Offers
+ See a list of exclusive deals and offers from other top startup programs. 
  <details><summary> 👇 Drop Down
  </summary>
-   
+  
 - 📓 Notion for Startups I The connected workspace: Apply [here](https://www.notion.so/startups?utm_medium=partner&utm_source=startup_partner&utm_campaign=startup-program-partner-githubforstartups). Code “STARTUP4110P36612”.
 
 - 🔐 Auth0 for Startups, powered by Okta I Modern Identity Management: Apply [here](https://autheco.atlassian.net/servicedesk/customer/portal/4/group/9/create/104).
