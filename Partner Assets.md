@@ -1,16 +1,10 @@
 # Partner Assets
 ![Screenshot 2023-08-09 at 2 15 55 PM](https://github.com/GitHub-for-Startups/Global-Repo/assets/104146251/e6ce8f96-f1d0-443f-a9c2-37952f701879)
 
-[Apply to be a GitHub for Startups partner](https://github.com/enterprise/startups#join-partners)
-&nbsp;•&nbsp;
-[Partnering with GitHub](https://partner.github.com/)
-&nbsp;•&nbsp;
-[Access GitHub's Logos](https://github.com/logos)
-&nbsp;•&nbsp;
-[Create a Support Ticket](https://support.github.com/contact?tags=hh-github-for-startups)
+#### Welcome to our GitHub for Startups Partner HQ. We’re excited to partner with you to help your startups build and scale on GitHub. This repo contains all of your onboarding resources as well as select opportunities for your portfolio. Bookmark or subscribe to any updates with a [free](https://github.com/pricing) GitHub account.
 
-Welcome to the GitHub for Startups program. We’re excited to partner with you to help your startups build and scale on GitHub. This page contains all of the resources you need to share GitHub with your startups.
-
+- [Interested in partnering? Apply to be a GitHub for Startups partner](https://github.com/enterprise/startups#join-partners)
+&nbsp;&nbsp;
 
 ## 🔊 Partner with Us
 
