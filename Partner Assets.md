@@ -1,52 +1,68 @@
 # Partner Assets
 ![Screenshot 2023-08-09 at 2 15 55 PM](https://github.com/GitHub-for-Startups/Global-Repo/assets/104146251/e6ce8f96-f1d0-443f-a9c2-37952f701879)
 
-#### Welcome to our GitHub for Startups Partner HQ. We’re excited to partner with you to help your startups build and scale on GitHub. This repo contains all of your onboarding resources as well as select opportunities for your portfolio. Bookmark or subscribe to any updates with a [free](https://github.com/pricing) GitHub account.
 
-- [Interested in partnering? Apply to be a GitHub for Startups partner](https://github.com/enterprise/startups#join-partners)
-&nbsp;&nbsp;
+### <p align="center">GitHub for Startups partners with leading VCs and accelerators to create the unicorns of tomorrow</p>
 
-## 🔊 Partner with Us
+This page contains your partner onboarding resources as well as our latest partner/portco opportunities.
 
-**Application Timeline**
-Action| Response time
-------------- | -------------
-📃 Share your unique partner link provided in your partnership welcome email. | ⏳ Allow up to 24 hours to recieve acknowlegement of your application.
-⏱ Application review to check eligibility. | 🧮 Processing of the application can take up to 5 days (based on our backlog).
+> <span style="font-size: 0.3em;">Subscribe to updates with a [free](https://github.com/pricing) GitHub account</span>.
+
+> <span style="font-size: 0.3em;">Need support? Contact your partner lead or reach the startup team startups@github.com</span>.
+
+> <span style="font-size: 0.3em;">Interested in partnering? Learn more and [apply here](https://github.com/enterprise/startups#join-partners)</span>.
 
 
-**Language for sharing our partnership:**
+## Partner Onboarding Resources
+<details><summary>
+🔊 Click here
+</summary>
 
+<span style="margin-right:20px;"></span>
+> ***How we bring startups into GitHub for Startups:***
+ - Share your unique partner link provided in your partnership welcome email.
+ - Startup application is responded to in 1-2 days.
+ - If eligible, they’re welcomed into our program.
 
-```zsh
+> **[Access GitHub's Logos](https://github.com/logos)**
+
+> ***Sharing our partnership:***
+Copy and paste the below
+</summary>
+
+```
 Hi founders,
 
-We are happy to share that we've partnered with GitHub for Startups, a program dedicated to accelerating early-stage
-companies with the world's leading AI-powered developer platform. It includes startup-friendly pricing,
-GTM support, and other benefits.
+Happy to share we've partnered with GitHub for Startups. This program is designed to accelerate early-stage startups
+building with GitHub, the world's leading AI-powered developer platform. It includes startup-friendly pricing,
+tailored product guidance, and GTM support.
 
-Apply here to get started (include your unique partner link)
-- Their startup team will respond within a few business days.
+Apply here to learn more or get started (link your unique partner application)
+Their startup team will respond within a few business days.
+
+Program Offer:
+- 20 seats of GitHub Enterprise, free for one year (50% off year two).
+- 20 seats of GitHub Advanced Security, 50% off for one year (25% off year two).
+  The Advanced Security offer isn't yet public. If interested, please reach out to startups@github.com. 
+
+Eligibility: must be a portfolio company, Series A or earlier, and new to each offer.
 ```
-**Startup Offer:**
-> Up to 20 seats of [GitHub Enterprise](https://github.com/pricing), free for one year (50% off year two).
-
-> Up to 20 seats of [GitHub Advanced Security](https://resources.github.com/contact/security/), 50% off for one year (25% off year two).
-
-  > **If you’re interested in Advanced Security, reach out to startups@github.com as it’s not yet published.**
-
-**Eligibility Criteria:** Must be a portfolio company, Series A or earlier, and new to each offer.
+> **Links to reference:** 
+- [GitHub for Startups Home](https://github.com/enterprise/startups/)
+- [GitHub Pricing](https://github.com/pricing)
+- [About GiHub Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-enterprise-cloud)
+- [About GitHub Advanced Security](https://resources.github.com/contact/security/)
 
 </details> 
 
-## 🚀 Select Portfolio Opportunities
+## Select Portfolio Opportunities
+<details><summary>
+🚀 Click here
+
+</summary>
 
 <span style="margin-right:20px;"></span>
 
-Do you know of an exciting portfolio company that’s scaling with GitHub? 
-
-We’re actively seeking GitHub success stories to share with the world across case studies, live events, and more.
-Encourage them to apply for consideration in a variety of engagements with us. Be sure to flag any applications to your partnerships lead for expedited review.
+Do you know a startup that’s scaling with GitHub? We’re actively seeking GitHub success stories to bring to our various program engagements. Encourage select companies to apply.
 
 - [GitHub Startup Success Story Nomination Form](https://forms.gle/C6chM5922xMnF22TA)
-
