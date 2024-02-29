@@ -67,3 +67,14 @@ This guide was put together in order to better serve you in navigating all you n
 - [Remove organizations from your Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/user-management/managing-organizations-in-your-enterprise/removing-organizations-from-your-enterprise)
 
 </details>
+
+<iframe
+  src="https://lu.ma/embed-checkout/evt-TplAjXsZJ4sbXQW"
+  width="600"
+  height="450"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
