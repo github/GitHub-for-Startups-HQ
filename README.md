@@ -16,17 +16,20 @@ GitHub for Startups helps drive startup success through educational content, net
 <details><summary>  ✍️ More Program Information
   </summary>
  
+<span style="margin-right:20px;"></span>
+ 
  **🖋️ Startup Eligibility** 
 
 - Must be an early-stage startup that is funded (up to  Series A) or associated with a GitHub for Startups partner. This can be an investor, accelerator, or startup support organization.  **A full list of GitHub for Startups partners can be found [here](https://github.com/enterprise/startups/partners).**
 - Must not be a current GitHub Enterprise customer or have previously received credits for GitHub Enterprise
 
-
 **👨‍💻 Startup Benefits**
 
-- _Free GitHub Enterprise_: 20 seats of GHE for 12 months for year 1 and and additional 50% off 20 seats in year 2 for portfolio companies **affiliated with a GitHub for Startups partner.**
-- [_Free GitHub Advanced Security_](https://resources.github.com/contact/security/): 20 seats of GHAS for 12 months for year 1 and and additional 50% off 20 seats in year 2 for portfolio companies **affiliated with a GitHub for Startups partner.**
-- _Tailored product guidance_: Startup-friendly onboarding and in-product experience, office hours, and technical best practice sharing.
+<span style="margin-right:20px;"></span>
+- _[Free GitHub Enterprise](https://github.com/pricing)_: 20 seats of GitHub Enterprise free for one year (50% off year two).
+- {NEW Offer} [GitHub Advanced Security](https://resources.github.com/contact/security/): 20 seats of GitHub Advanced Security, 50% off for one year (25% off year two).
+    - Includes startup-friendly onboarding, tailored product guidance, and access to engagment with our global startup community.
+    - Eligibility: Must be Series A or earlier and new to each offer. Year two pricing is for startups within an [approved](https://github.com/enterprise/startups/partners) GitHub for Startups partner.
 
 **📝 Additional Program Resources**
 
