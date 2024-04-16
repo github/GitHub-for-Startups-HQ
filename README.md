@@ -43,7 +43,7 @@ GitHub for Startups helps drive startup success through educational content, net
 </details>
  
  ## Program Resources and Events
-Our startup program mixes in person education and networking events, live and pre-recorded content, and much more. You can always keep up with what's going on by looking out for our monthly newsletter, as well as any emails you recieve from startups@github.com. We do our best to make sure any email you recieve from us is beneficial in some capacity, so don't send us to spam! 😊
+Our startup program mixes in person education and networking events, live and pre-recorded content, and much more. We have an [additional page of resources](https://github.com/github/GitHub-for-Startups-HQ/blob/main/Resources%20Page.md) on this repo, but You can always keep up with what's going on by looking out for our monthly newsletter, as well as any emails you recieve from startups@github.com. We do our best to make sure any email you recieve from us is beneficial in some capacity, so don't send us to spam! 😊
 
 📓 **Would you like to be featured?**
 
