@@ -55,7 +55,7 @@ Keep up with our team's whereabouts by **subscribing** to our [GitHub for Startu
 
 🚸 **Want to host a startup community event at GitHub HQ??**
 
-We'd love to support the startup community by hosting events at any of our HQ offices around the globe. Reach out to amalebranche@github.com and let us know how we can support you in furthering tech in your commnunities.
+We'd love to support the startup community by hosting events at any of our HQ offices around the globe. Reach out to our team with details on how we can support you in furthering tech in your commnunity.
 
  ## Partner Offers
   See a list of exclusive deals and offers from other top startup programs. 
@@ -82,7 +82,7 @@ We'd love to support the startup community by hosting events at any of our HQ of
 
 - 💸 Capchase I Non-dilutive growth financing: Apply [here](https://www.capchase.com/partners/github-for-startups).
 
-- 📤 DocSend I Secure pitch deck and fundraising platform: Apply [here](https://try.docsend.com/github).
+- 📤 DocSend I Secure pitch deck and fundraising platform: Apply [here]([https://try.docsend.com/github](https://experience.dropbox.com/docsend/startups?utm=github&pscd=experience.docsend.com&ps_partner_key=Z2l0aHVi&ps_xid=YfDrMA0KyLTWoP&gsxid=YfDrMA0KyLTWoP&gspk=Z2l0aHVi)).
 
 - 📊 Datadog for Startups I Real-time infrastructure and application performance monitoring: Apply [here](https://www.datadoghq.com/partner/datadog-for-startups/).
  </details>
