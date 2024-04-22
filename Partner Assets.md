@@ -15,7 +15,7 @@ This page contains your partner onboarding resources as well as our latest partn
 
 ## Partner Onboarding Resources
 <details><summary>
-🔊 Click here
+Open
 </summary>
 
 <span style="margin-right:20px;"></span>
@@ -57,12 +57,15 @@ Eligibility: must be a portfolio company, Series A or earlier, and new to each o
 
 ## Select Portfolio Opportunities
 <details><summary>
-🚀 Click here
-
+Open
 </summary>
 
 <span style="margin-right:20px;"></span>
 
-Do you know a startup that’s scaling with GitHub? We’re actively seeking GitHub success stories to bring to our various program engagements. Encourage select companies to apply.
+🚀 Do you have a portfolio company that’s scaling with GitHub? We’re actively seeking GitHub success stories to bring to our various program engagements. Encourage select companies to apply.
 
 - [GitHub Startup Success Story Nomination Form](https://forms.gle/C6chM5922xMnF22TA)
+
+🎉 Refer your company to host a startup community event at one of GitHub's global offices. We'd love to support the startup community by helping them host events.
+
+-  Have them reach out to us with details on how we can support them in furthering tech in their commnunity. [Here's an example from Jam.dev](https://www.linkedin.com/posts/jamdotdev_behind-the-scenes-jam-ai-night-at-github-activity-7159267661426667521-6zkP/).
