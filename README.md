@@ -43,11 +43,11 @@ GitHub for Startups helps drive startup success through educational content, net
 </details>
  
  ## Program Resources and Events
-Our startup program mixes in person education and networking events, live and pre-recorded content, and much more. We have an [additional page of resources](https://github.com/github/GitHub-for-Startups-HQ/blob/main/Resources%20Page.md) on this repo, but You can always keep up with what's going on by looking out for our monthly newsletter, as well as any emails you recieve from startups@github.com. We do our best to make sure any email you recieve from us is beneficial in some capacity, so don't send us to spam! 😊
+Our startup program mixes in person education and networking events, live and pre-recorded content, and much more. We have an [additional page of resources](https://github.com/github/GitHub-for-Startups-HQ/blob/main/Resources%20Page.md) on this repo, but you can always keep up with what's going on by looking out for our monthly newsletter, as well as any emails you recieve from startups@github.com. We do our best to make sure any email you recieve from us is beneficial in some capacity, so don't send us to spam! 😊
 
 📓 **Would you like to be featured?**
 
-From GitHub customer case studies, sponsored by our global marketing team, to joining us for one of our podcasts or short form videos, we'd love the opportunity to get to know you, your teams, and your companies much better. To get started, you can express interest using [THIS](https://docs.google.com/forms/d/e/1FAIpQLSdo6KN7Y3ldYw_ivM5iJ0hYWKwTTeueW99A-q0DDh3kWZwPoQ/viewform) form and our team will review. _Note: Filling this out does not guarantee that we'll be able to feature your startup. However, if we think there is a fit, our team will be sure to reach out!_
+From GitHub customer case studies, sponsored by our global marketing team, to joining us for one of our podcasts or short form videos, we'd love the opportunity to highlight you, your teams, and your companies much better. To get started, you can express interest using [THIS](https://docs.google.com/forms/d/e/1FAIpQLSdo6KN7Y3ldYw_ivM5iJ0hYWKwTTeueW99A-q0DDh3kWZwPoQ/viewform) form and our team will review. _Note: Filling this out does not guarantee that we'll be able to feature your startup. However, if we think there is a fit, our team will be sure to reach out!_
 
 📆 **Program Event Calendar**
 
