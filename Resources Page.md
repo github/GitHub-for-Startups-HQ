@@ -71,7 +71,3 @@ Here are some helpful resources to assist you in your GitHub Enterprise Cloud jo
 - [GitHub Blog](https://github.blog/): Stay updated with the latest news, announcements, and insights from GitHub.
 
 Feel free to explore these resources to enhance your GitHub Enterprise Cloud skills and knowledge. 
-
-## User feedback
-
-Please note that this is an Alpha release intended to help enhance your experience with GitHub. Your feedback will be crucial in helping us identify features or enhancements to add going forward. To provide feedback, please click [here](https://gh.io/AAoxf3m).
