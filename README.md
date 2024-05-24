@@ -8,6 +8,8 @@
 [Create a Support Ticket](https://support.github.com/contact?tags=hh-github-for-startups)
 &nbsp;•&nbsp;
 [GitHub Documentation](https://docs.github.com/en)
+&nbsp;•&nbsp;
+[Getting Started Resources](https://github.com/github/GitHub-for-Startups-HQ/blob/main/Resources%20Page.md)
 
 ## About Our Program
 
