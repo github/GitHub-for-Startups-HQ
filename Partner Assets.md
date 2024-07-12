@@ -2,16 +2,11 @@
 ![Screenshot 2023-08-09 at 2 15 55 PM](https://github.com/GitHub-for-Startups/Global-Repo/assets/104146251/e6ce8f96-f1d0-443f-a9c2-37952f701879)
 
 
-### <p align="center">GitHub for Startups partners with leading VCs and accelerators to create the unicorns of tomorrow</p>
+### <p align="center">GitHub for Startups partners with the world's leading investors to create the unicorns of tomorrow</p>
 
-This page contains your partner onboarding resources as well as our latest partner/portco opportunities.
+> <span style="font-size: 0.3em;">Subscribe to receive the latest updates with a [free](https://github.com/pricing) GitHub account</span>.
 
-> <span style="font-size: 0.3em;">Subscribe to updates with a [free](https://github.com/pricing) GitHub account</span>.
-
-> <span style="font-size: 0.3em;">Need support? Contact your partner lead or reach the startup team startups@github.com</span>.
-
-> <span style="font-size: 0.3em;">Interested in partnering? Learn more and [apply here](https://github.com/enterprise/startups#join-partners)</span>.
-
+> <span style="font-size: 0.3em;">Need support? Contact your partnership lead or our startup team startups@github.com</span>.
 
 ## Partner Onboarding Resources
 <details><summary>
@@ -19,41 +14,34 @@ Open
 </summary>
 
 <span style="margin-right:20px;"></span>
-> ***How we bring startups into GitHub for Startups:***
- - Share your unique partner link provided in your partnership welcome email.
- - Startup application is responded to in 1-2 days.
- - If eligible, they’re welcomed into our program.
 
-> **[Access GitHub's Logos](https://github.com/logos)**
-
-> ***Sharing our partnership:***
-Copy and paste the below
 </summary>
 
 ```
-Hi founders,
+We've teamed up with GitHub for Startups, a program designed to accelerate early-stage companies
+building on GitHub, the world's leading AI-powered developer platform. The partnership offers:
 
-Happy to share we've partnered with GitHub for Startups. This program is designed to accelerate early-stage startups
-building with GitHub, the world's leading AI-powered developer platform. It includes startup-friendly pricing,
-tailored product guidance, and GTM support.
+- Startup-friendly pricing (up to ~$25k in total savings).
+- Personalized support: Tailored onboarding, office hours, and ongoing expert guidance.
+- Access to a global startup network, exclusive events, and other opportunities. 
 
-Apply here to learn more or get started (link your unique partner application)
-Their startup team will respond within a few business days.
+Apply here to get started (link your unique partner application).
 
-Program Offer:
-- 20 seats of GitHub Enterprise, free for one year (50% off year two).
-- 20 seats of GitHub Advanced Security, 50% off for one year (25% off year two).
-  The Advanced Security offer isn't yet public. If interested, please reach out to startups@github.com. 
+Offer Details:
+- 20 seats of GitHub Enterprise: free for one year and 50% off year two.
+- 20 seats of GitHub Advanced Security: 50% off for one year and 25% off year two.
 
-Eligibility: must be a portfolio company, Series A or earlier, and new to each offer.
+Eligibility: must be a portfolio company at Series A or earlier, and new to each offer.
 ```
-> **Links to reference:** 
+> **Referenced links:** 
 - [GitHub for Startups Home](https://github.com/enterprise/startups/)
 - [GitHub Pricing](https://github.com/pricing)
-- [About GiHub Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-enterprise-cloud)
-- [About GitHub Advanced Security](https://resources.github.com/contact/security/)
+- [GiHub Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-enterprise-cloud)
+- [GitHub Advanced Security](https://github.com/enterprise/advanced-security)
 
-</details> 
+> **[Access GitHub's Logos](https://github.com/logos)**
+
+</details>
 
 ## Select Portfolio Opportunities
 <details><summary>
@@ -66,6 +54,7 @@ Open
 
 - [GitHub Startup Success Story Nomination Form](https://forms.gle/C6chM5922xMnF22TA)
 
-🎉 Refer your company to host a startup community event at one of GitHub's global offices. We'd love to support the startup community by helping them host events.
+🎉 Host a startup event at GitHub's San Francisco HQ 
 
--  Have them reach out to us with details on how we can support them in furthering tech in their commnunity. [Here's an example from Jam.dev](https://www.linkedin.com/posts/jamdotdev_behind-the-scenes-jam-ai-night-at-github-activity-7159267661426667521-6zkP/).
+-  If your fund or portfolio company is interested in hosting, reach out with details.
+-  [Here's an example from Jam.dev's AI demo night](https://www.linkedin.com/posts/jamdotdev_behind-the-scenes-jam-ai-night-at-github-activity-7159267661426667521-6zkP/).
