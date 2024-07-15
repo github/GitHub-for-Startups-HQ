@@ -57,7 +57,7 @@ Keep up with our team's whereabouts by **subscribing** to our [GitHub for Startu
 
 🚸 **Want to host a startup community event at GitHub HQ??**
 
-We'd love to support the startup community by hosting events at any of our HQ offices around the globe. Reach out to our team with details on how we can support you in furthering tech in your commnunity.
+We'd love to support the startup community by hosting events at any of our HQ offices around the globe. Reach out to our team with details on how we can support you in furthering tech in your community.
 
  ## Partner Offers
   See a list of exclusive deals and offers from other top startup programs. 
