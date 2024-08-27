@@ -38,7 +38,8 @@ Program Offer
  - GitHub Enterprise: 20 seats free for the first year. An optional 50% off in year two. 
 Supercharge your development with advanced security, automation, and collaboration tools.
 
-- GitHub Advanced Security: 20 seats at 50% off in year one. An optional 25% off in year two. Stay ahead of vulnerabilities with AI-powered security solutions. 
+- GitHub Advanced Security: 20 seats at 50% off in year one. An optional 25% off in year two.
+Stay ahead of vulnerabilities with AI-powered security solutions. 
 
 Eligibility:
 
@@ -69,28 +70,27 @@ Apply:
 
 ### <p align="center">🏙️ Host a Startup Community Event at GitHub's San Francisco Office</p>
 
-- We’re thrilled to offer you the chance to host your next event at GitHub and engage with the startup and developer community.
+- Request to host your next community event at GitHub. **[Learn more & apply](https://docs.google.com/forms/d/1UWXAc-PdqMV-lVYWwVJItGEceMpWiy-Bx19pfIazdpQ/edit)**.
 
-- **[Apply here](https://docs.google.com/forms/d/1UWXAc-PdqMV-lVYWwVJItGEceMpWiy-Bx19pfIazdpQ/edit)** to share your event with us.
+- Recent events: [Twilio](https://twiliomeetupgithub.splashthat.com/) I [Figma](https://githubday0.splashthat.com/) I [Techstars](https://www.eventbrite.com/e/techstars-alumni-mixer-sf-edition-tickets-920386519857?lang=en-us&locale=en_US&status=30&internal_ref=social&view=listing)  
 
-**Recent events:**  
-- [Twilio AI Meetup & Demo Night](https://twiliomeetupgithub.splashthat.com/) I [Figma Dev Event](https://githubday0.splashthat.com/) I [Techstars Alumni Mixer](https://www.eventbrite.com/e/techstars-alumni-mixer-sf-edition-tickets-920386519857?lang=en-us&locale=en_US&status=30&internal_ref=social&view=listing)  
-
-- Video clip: [Jam.dev AI Night](https://www.linkedin.com/posts/jamdotdev_behind-the-scenes-jam-ai-night-at-github-activity-7159267661426667521-6zkP/)
-
-<img src="https://github.com/user-attachments/assets/f1f16f39-9572-4891-878d-2d2a312ffa62" alt="Event at GitHub Office" width="300"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f1f16f39-9572-4891-878d-2d2a312ffa62" alt="Event at GitHub Office" width="150" height="auto"/>
+  <br/>
+  <a href="https://www.linkedin.com/posts/jamdotdev_behind-the-scenes-jam-ai-night-at-github-activity-7159267661426667521-6zkP/">Jam.dev AI Night</a>
+</p>
 
 ---
 
 ### <p align="center">🤩 Spotlight Your Portfolio’s Best Open Source Projects, Live</p>
 
-- Showcase standout projects on GitHub’s social channels during [Open Source Friday](https://github.com/githubevents/open-source-friday), hosted by our DevRel team. It’s a global stage to engage with the largest developer community.
+- Showcase standout projects on GitHub’s social channels during [Open Source Friday](https://github.com/githubevents/open-source-friday), hosted by our DevRel team. It’s a global stage to engage with the largest developer community. Review the [project criteria](https://github.com/githubevents/open-source-friday/blob/main/admin/project-criteria.md) and then **[apply here](https://github.com/githubevents/open-source-friday/issues/new?template=osf-guest-invite.yml&assignees=AndreaGriffiths11%2CLadyKerr&labels=open-source%2Copen-source-friday%2Cpending%2Ctwitch)**
 
-- **[Apply here](https://github.com/githubevents/open-source-friday/issues/new?template=osf-guest-invite.yml&assignees=AndreaGriffiths11%2CLadyKerr&labels=open-source%2Copen-source-friday%2Cpending%2Ctwitch)** after reviewing the [project criteria](https://github.com/githubevents/open-source-friday/blob/main/admin/project-criteria.md).
-
-<img src="https://github.com/user-attachments/assets/d59561fc-e379-411d-a188-a8f8900b40d2" alt="Embrace OSS Friday" width="400"/>
-
-[Watch the Embrace episode](https://www.youtube.com/watch?v=kGugqs7Ynjw&list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P&index=5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d59561fc-e379-411d-a188-a8f8900b40d2" alt="Embrace OSS Friday" width="300"/>
+  <br/>
+  <a href="https://www.youtube.com/watch?v=kGugqs7Ynjw&list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P&index=5">Watch the Embrace episode</a>
+</p>
 
 ---
 
@@ -98,11 +98,13 @@ Apply:
 
 - The [GitHub Fund](https://resources.github.com/github-fund/), in partnership with Microsoft’s [M12](https://m12.vc/), offers capital, connections, access, and benefits to pre-seed and seed-stage open source innovators transforming the economy with AI, security, infrastructure, and more.
 
-- **Express interest** in teaming up or [pass to a startup to apply here](https://resources.github.com/github-fund/#form).
+- Venture partners and startups can express interest by [completing this form](https://resources.github.com/github-fund/#form).
 
-<img src="https://github.com/user-attachments/assets/ea2c9b36-786e-46d6-9902-59aff20f5d9b" alt="July 2024, Volley M12 Founder Feature & $55M Series C Announcement" width="400"/>
-
-[July 2024, Volley M12 Founder Feature & $55M Series C Announcement](https://m12.vc/news/july-2024-founders-feature-volley/)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ea2c9b36-786e-46d6-9902-59aff20f5d9b" alt="July 2024, Volley M12 Founder Feature & $55M Series C Announcement" width="250"/>
+  <br/>
+  <a href="https://m12.vc/news/july-2024-founders-feature-volley/">July 2024, Volley M12 Founder Feature & $55M Series C Announcement</a>
+</p>
 
 ---
 
@@ -110,25 +112,35 @@ Apply:
 
 - If a portfolio company is excelling with GitHub, we want to hear about it! 
 
-- **[Nominate a success story](https://docs.google.com/forms/d/e/1FAIpQLSdo6KN7Y3ldYw_ivM5iJ0hYWKwTTeueW99A-q0DDh3kWZwPoQ/viewform)** to be featured in our startup program engagements.
+- **[Nominate a success story](https://docs.google.com/forms/d/e/1FAIpQLSdo6KN7Y3ldYw_ivM5iJ0hYWKwTTeueW99A-q0DDh3kWZwPoQ/viewform)** to be considered in various startup program engagements and opportunities.
 
-<img src="https://github.com/user-attachments/assets/a5e131f3-bb89-4d3f-8f18-a25c4bb89ac6" alt="CloudZero" width="400"/>
+### <div align="center"><img src="https://github.com/user-attachments/assets/a5e131f3-bb89-4d3f-8f18-a25c4bb89ac6" alt="CloudZero" width="400"/></div>
 
-[Read the CloudZero customer story](https://github.com/customer-stories/cloudzero)
+<div align="center"><p><a href="https://github.com/customer-stories/cloudzero">Read the CloudZero customer story</a></p></div>
 
 ---
 
-### <p align="center">🖐️ Leverage GitHub Leadership at Your Next Event</p>
+### <p align="center">🖐️ Request GitHub’s Industry Leaders at Your Next Event</p>
 
-- Want to feature GitHub leadership at your next company summit, podcast, or content piece? Reach out to your partner lead to explore how we can support your next big event.
+- Engage our leadership and experts for events, joint-content, or portfolio education. Connect with your partner lead to explore how we might support your next initiative.
 
-| ![GitHub CEO & Sequoia](https://github.com/user-attachments/assets/5946e837-08d3-456e-a350-6c73ea8e063a) | ![GitHub CEO & Redpoint](https://github.com/user-attachments/assets/6610c405-9e4a-4332-ad4d-438f5be08042) | ![GitHub COO & Insight](https://github.com/user-attachments/assets/428d2710-fd8e-49d6-b0a2-9da4ea1de6a4) |
-| :---: | :---: | :---: |
-| **GitHub CEO & Sequoia** | **GitHub CEO at Redpoint** | **GitHub COO & Insight** |
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5946e837-08d3-456e-a350-6c73ea8e063a" alt="GitHub CEO & Sequoia" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/6610c405-9e4a-4332-ad4d-438f5be08042" alt="GitHub CEO & Redpoint" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/428d2710-fd8e-49d6-b0a2-9da4ea1de6a4" alt="GitHub COO & Insight" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b33cd20f-47ee-4e9d-97fc-bb4fa7bf5330" alt="GitHub CRO & Venrock" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/fb927a87-0438-4da1-a342-0d2fe895c4d3" alt="GitHub CEO & StationF" width="200"/></td>
+  </tr>
+  <tr>
+    <td><strong>GitHub CEO & Sequoia</strong></td>
+    <td><strong>GitHub CEO at Redpoint</strong></td>
+    <td><strong>GitHub COO & Insight</strong></td>
+    <td><strong>GitHub CRO & Venrock</strong></td>
+    <td><strong>GitHub CEO & StationF</strong></td>
+  </tr>
+</table>
 
-| ![GitHub CRO & Venrock](https://github.com/user-attachments/assets/b33cd20f-47ee-4e9d-97fc-bb4fa7bf5330) | ![GitHub CEO @ Station F](https://github.com/user-attachments/assets/fb927a87-0438-4da1-a342-0d2fe895c4d3) |
-| :---: | :---: |
-| **GitHub CRO & Venrock​⬤
 ---
 
 
