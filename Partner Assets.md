@@ -134,7 +134,7 @@ Apply:
   </tr>
   <tr>
     <td><strong>GitHub CEO & Sequoia</strong></td>
-    <td><strong>GitHub CEO at Redpoint</strong></td>
+    <td><strong>GitHub CEO & Redpoint</strong></td>
     <td><strong>GitHub COO & Insight</strong></td>
     <td><strong>GitHub CRO & Venrock</strong></td>
     <td><strong>GitHub CEO & StationF</strong></td>
