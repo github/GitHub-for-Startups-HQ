@@ -50,15 +50,16 @@ If you don’t meet eligibility criteria, but are still interested in exploring 
 
 Apply:
 - Apply Here {link your unique partner page}: Their startup team will respond in 1-2 business days.
-- Visit GitHub for Startups or GitHub’s Blog to learn more.
+- Please note this special offer is approved, but not yet reflected on our unique application page.
 
 
 ```
-> **References:** 
+> **Offer References:** 
 - [GitHub for Startups Home](https://github.com/enterprise/startups/)
 - [GitHub Enterprise](https://github.com/enterprise)
 - [GitHub Advanced Security](https://github.com/enterprise/advanced-security)
 - [GitHub's Blog](https://github.blog/)
+- Be sure to include your unique partner application page. ([Example](https://resources.github.com/startups/?pid=EXAMPLE)).
 
 </details>
 
