@@ -29,6 +29,7 @@ Open
 
 > [Access GitHub's Logos here](https://github.com/logos)
 
+You can copy this section with one click & add referenced links below
 ```
 We’ve partnered with GitHub for Startups to unlock exclusive benefits designed to fuel your growth on the world’s leading AI-powered developer platform.
 The partnership offers startup-friendly pricing (up to $25,000 in total savings), tailored technical guidance, access to a global startup network, and other opportunities.
@@ -43,23 +44,26 @@ Stay ahead of vulnerabilities with AI-powered security solutions.
 
 Eligibility:
 
-- Affiliated with an approved venture partner (that’s you!) and Series B or earlier. 
-- Startups new to either GitHub Enterprise or GitHub Advanced Security.
+- Affiliated with an approved venture partner.
+- Series B or earlier.
+- New to either GitHub Enterprise or GitHub Advanced Security.
 
-If you don’t meet eligibility criteria, but are still interested in exploring support from GitHub, please reach out to their team at startups@github.com.
+Already using GitHub Enterprise?
+If you’re part of GitHub for Startups but not yet using GitHub Advanced Security, you can still unlock these additional benefits. Simply apply, and the GitHub team will reach out to discuss adding Advanced Security to your plan.
+
+Not eligible?
+Reach out to startups@github.com for any additional support.
 
 Apply:
 - Apply Here {link your unique partner page}: Their startup team will respond in 1-2 business days.
-- Please note this special offer is approved, but not yet reflected on our unique application page.
-
+- Please note this program recently expanded to include companies up to Series B and GitHub Advanced Security. These updates aren’t yet reflected in the application or public materials. After applying, the team will reach out, and you can express interest in GitHub Advanced Security then.
 
 ```
 > **Offer References:** 
 - [GitHub for Startups Home](https://github.com/enterprise/startups/)
 - [GitHub Enterprise](https://github.com/enterprise)
 - [GitHub Advanced Security](https://github.com/enterprise/advanced-security)
-- [GitHub's Blog](https://github.blog/)
-- Be sure to include your unique partner application page. ([Example](https://resources.github.com/startups/?pid=EXAMPLE)).
+- Include your unique partner page: ([example](https://resources.github.com/startups/?pid=EXAMPLE))
 
 </details>
 
