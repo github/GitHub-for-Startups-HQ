@@ -22,12 +22,12 @@ Welcome to the GitHub for Startups Partner repository. We’re excited to partne
   - For any other questions, please contact your GitHub partnership lead.
 
   #### 📰 Stay Connected: 
-  - Ensure you and your portfolio companies stay updated with the latest from GitHub for Startups by subscribing to this repository with a [free GitHub account](https://github.com/pricing).
+  - Receive the latest from this repository by subscribing with a [free GitHub account](https://github.com/pricing).
   - Subscribe to our [GitHub for Startups Luma](https://lu.ma/githubforstartups) and get the inside scoop on IRL program events happening around the globe.
 
 </details>
 
-## 📚 Partner Onboarding & Resources
+## 📣 Sharing Our Partnership
 <details><summary>
 Open
 </summary>
@@ -35,6 +35,7 @@ Open
 <span style="margin-right:20px;"></span>
 
 </summary>
+
 
 > [Access GitHub's Logos here](https://github.com/logos)
 
@@ -76,9 +77,16 @@ Apply:
 
 </details>
 
-## 🚀 Select Partner Opportunities
+
+## 🚀 Venture Partner & Portfolio Opportunities
 <details>
   <summary>Open</summary>
+
+Across hosting events at GitHub’s SF office, showcasing your portfolio’s best open-source projects, collaborating with the GitHub Fund, and nominating success stories. Unlock unique ways to amplify your portfolio’s visibility and growth potential with GitHub’s global network and resources.
+
+Want to power Your Portfolio with GitHub?
+
+Whether you're aiming to boost productivity, speed up product development, or enhance security, GitHub is here to support your key priorities. We can provide **hands-on technical training**, dive into **industry trends** like AI and innovation, and offer **strategic guidance** on scaling with GitHub. We’ll co-host impactful events, **amplify portfolio success stories** through joint marketing, and deliver **targeted workshops** to accelerate growth. Plus, explore investment opportunities aligned with GitHub initiatives through the **GitHub Fund**. Let’s accelerate your portfolio’s growth, together.
 
 ---
 
@@ -156,7 +164,7 @@ Apply:
 </table>
 
 ---
-
+</details>
 
 
 
