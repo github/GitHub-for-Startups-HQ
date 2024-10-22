@@ -1,20 +1,29 @@
 # Partner Assets
 ![Screenshot 2023-08-09 at 2 15 55 PM](https://github.com/GitHub-for-Startups/Global-Repo/assets/104146251/e6ce8f96-f1d0-443f-a9c2-37952f701879)
 
-
 ### <p align="center">GitHub for Startups partners with the world's leading investors to create the unicorns of tomorrow</p>
 
-Welcome to the GitHub for Startups Partner repository. This space is dedicated to our venture partners who are teaming with us to empower the next generation of unicorns building with GitHub. Through our partnership, your portfolio companies gain exclusive access to GitHub’s best tools, resources, and network designed to accelerate their growth on the world’s leading AI-powered developer platform.
+<div align="center">
 
-## Support & Contact Information
+Welcome to the GitHub for Startups Partner repository. We’re excited to partner with you to support the next wave of high-growth startups building on GitHub. As a venture partner, your portfolio companies unlock exclusive access to GitHub’s best-in-class tools, resources, and developer community—empowering them to scale faster on the world’s most advanced, AI-powered developer platform.
+
+</div>
+
+## 📧 Support & Contact Info
 <details>
   <summary>Open</summary>
 
-  - **Startup Program Support:** For application, billing, or renewal inquiries, contact [startups@github.com](mailto:startups@github.com).
-  - **Technical & Product Support:** Startups can use our [expedited support channel](https://support.github.com/contact?tags=hh-github-for-startups) and share their ticket number with [startups@github.com](mailto:startups@github.com) for priority assistance.
-  - **General Inquiries:** For anything else, please reach out to your GitHub partnership lead.
+  #### 📧 Application, Billing, and Renewal Inquiries 
+  - Email [startups@github.com](mailto:startups@github.com)
+  
+  #### 🆘 Technical & Product Support
+  - Startups can use our [expedited support channel](https://support.github.com/contact?tags=hh-github-for-startups) and follow up with their ticket number [startups@github.com](mailto:startups@github.com).
+  #### 🤲 General Inquiries  
+  - For any other questions, please contact your GitHub partnership lead.
 
-  Stay Connected: Ensure you and your portfolio companies stay updated with the latest from GitHub for Startups by subscribing to this repository with a [free GitHub account](https://github.com/pricing).
+  #### 📰 Stay Connected: 
+  - Ensure you and your portfolio companies stay updated with the latest from GitHub for Startups by subscribing to this repository with a [free GitHub account](https://github.com/pricing).
+  - Subscribe to our [GitHub for Startups Luma](https://lu.ma/githubforstartups) and get the inside scoop on IRL program events happening around the globe.
 
 </details>
 
