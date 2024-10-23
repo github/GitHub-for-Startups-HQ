@@ -78,73 +78,80 @@ Apply:
 </details>
 
 
-## 🚀 Venture Partner & Portfolio Opportunities
+## 🚀 Amplify Your Portfolio with GitHub
 <details>
   <summary>Open</summary>
 
-Across hosting events at GitHub’s SF office, showcasing your portfolio’s best open-source projects, collaborating with the GitHub Fund, and nominating success stories. Unlock unique ways to amplify your portfolio’s visibility and growth potential with GitHub’s global network and resources.
+<p align="center">
+  <strong>Unlock unique opportunities to enhance your portfolio’s visibility and growth through GitHub’s global network. Engage with us by hosting events at our San Francisco office, showcasing your standout open-source projects, collaborating with the GitHub Fund, promoting success stories, and empowering your companies with hands-on training from GitHub experts.</strong>
+</p>
 
-Want to power Your Portfolio with GitHub?
+#### Select Partner & Portfolio Opportunities:
 
-Whether you're aiming to boost productivity, speed up product development, or enhance security, GitHub is here to support your key priorities. We can provide **hands-on technical training**, dive into **industry trends** like AI and innovation, and offer **strategic guidance** on scaling with GitHub. We’ll co-host impactful events, **amplify portfolio success stories** through joint marketing, and deliver **targeted workshops** to accelerate growth. Plus, explore investment opportunities aligned with GitHub initiatives through the **GitHub Fund**. Let’s accelerate your portfolio’s growth, together.
+<details>
+  <summary>📚 Power Your Portfolio's Growth with GitHub Experts</summary>
 
----
+&nbsp;&nbsp;&nbsp;&nbsp;Whether your focus is on boosting productivity, accelerating product development, or enhancing security, GitHub is here to support your key educational priorities. We can provide hands-on technical training, insights into industry trends like AI and innovation, and strategic guidance for scaling with GitHub. 
 
-### <p align="center">🏙️ Host a Startup Community Event at GitHub's San Francisco Office</p>
+&nbsp;&nbsp;&nbsp;&nbsp;Reach out to your partnership lead to learn more.
+</details>
 
-- Request to host your next community event at GitHub. **[Learn more & apply](https://docs.google.com/forms/d/1UWXAc-PdqMV-lVYWwVJItGEceMpWiy-Bx19pfIazdpQ/edit)**.
+<details>
+  <summary>🏙️ Host a Startup Community Event at GitHub's San Francisco Office</summary>
 
-- Recent events: [Twilio](https://twiliomeetupgithub.splashthat.com/) I [Figma](https://githubday0.splashthat.com/) I [Techstars](https://www.eventbrite.com/e/techstars-alumni-mixer-sf-edition-tickets-920386519857?lang=en-us&locale=en_US&status=30&internal_ref=social&view=listing)  
+&nbsp;&nbsp;&nbsp;&nbsp;- Request to host your next community event at GitHub. **[Learn more & apply](https://docs.google.com/forms/d/1UWXAc-PdqMV-lVYWwVJItGEceMpWiy-Bx19pfIazdpQ/edit)**.
+
+&nbsp;&nbsp;&nbsp;&nbsp;- Recent events: [Twilio](https://twiliomeetupgithub.splashthat.com/) I [Figma](https://githubday0.splashthat.com/) I [Techstars](https://www.eventbrite.com/e/techstars-alumni-mixer-sf-edition-tickets-920386519857?lang=en-us&locale=en_US&status=30&internal_ref=social&view=listing)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f1f16f39-9572-4891-878d-2d2a312ffa62" alt="Event at GitHub Office" width="150" height="auto"/>
   <br/>
   <a href="https://www.linkedin.com/posts/jamdotdev_behind-the-scenes-jam-ai-night-at-github-activity-7159267661426667521-6zkP/">Jam.dev AI Night</a>
 </p>
+</details>
 
----
+<details>
+  <summary>🤩 Spotlight Your Portfolio’s Best Open Source Projects, Live</summary>
 
-### <p align="center">🤩 Spotlight Your Portfolio’s Best Open Source Projects, Live</p>
-
-- Showcase standout projects on GitHub’s social channels during [Open Source Friday](https://github.com/githubevents/open-source-friday), hosted by our DevRel team. It’s a global stage to engage with the largest developer community. Review the [project criteria](https://github.com/githubevents/open-source-friday/blob/main/admin/project-criteria.md) and then **[apply here](https://github.com/githubevents/open-source-friday/issues/new?template=osf-guest-invite.yml&assignees=AndreaGriffiths11%2CLadyKerr&labels=open-source%2Copen-source-friday%2Cpending%2Ctwitch)**
+&nbsp;&nbsp;&nbsp;&nbsp;- Showcase standout projects on GitHub’s social channels during [Open Source Friday](https://github.com/githubevents/open-source-friday), hosted by our DevRel team. It’s a global stage to engage with the largest developer community. Review the [project criteria](https://github.com/githubevents/open-source-friday/blob/main/admin/project-criteria.md) and then **[apply here](https://github.com/githubevents/open-source-friday/issues/new?template=osf-guest-invite.yml&assignees=AndreaGriffiths11%2CLadyKerr&labels=open-source%2Copen-source-friday%2Cpending%2Ctwitch)**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d59561fc-e379-411d-a188-a8f8900b40d2" alt="Embrace OSS Friday" width="300"/>
   <br/>
   <a href="https://www.youtube.com/watch?v=kGugqs7Ynjw&list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P&index=5">Watch the Embrace episode</a>
 </p>
+</details>
 
----
+<details>
+  <summary>💸 Collaborate with the GitHub Fund</summary>
 
-### <p align="center">💸 Collaborate with the GitHub Fund</p>
+&nbsp;&nbsp;&nbsp;&nbsp;- The [GitHub Fund](https://resources.github.com/github-fund/), in partnership with Microsoft’s [M12](https://m12.vc/), offers capital, connections, access, and benefits to pre-seed and seed-stage open source innovators transforming the economy with AI, security, infrastructure, and more.
 
-- The [GitHub Fund](https://resources.github.com/github-fund/), in partnership with Microsoft’s [M12](https://m12.vc/), offers capital, connections, access, and benefits to pre-seed and seed-stage open source innovators transforming the economy with AI, security, infrastructure, and more.
-
-- Venture partners and startups can express interest by [completing this form](https://resources.github.com/github-fund/#form).
+&nbsp;&nbsp;&nbsp;&nbsp;- Venture partners and startups can express interest by [completing this form](https://resources.github.com/github-fund/#form).
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ea2c9b36-786e-46d6-9902-59aff20f5d9b" alt="July 2024, Volley M12 Founder Feature & $55M Series C Announcement" width="250"/>
   <br/>
   <a href="https://m12.vc/news/july-2024-founders-feature-volley/">July 2024, Volley M12 Founder Feature & $55M Series C Announcement</a>
 </p>
+</details>
 
----
+<details>
+  <summary>🚀 Nominate a GitHub Success Story</summary>
 
-### <p align="center">🚀 Nominate a GitHub Success Story</p>
+&nbsp;&nbsp;&nbsp;&nbsp;- If a portfolio company is excelling with GitHub, we want to hear about it!
 
-- If a portfolio company is excelling with GitHub, we want to hear about it! 
-
-- **[Nominate a success story](https://docs.google.com/forms/d/e/1FAIpQLSdo6KN7Y3ldYw_ivM5iJ0hYWKwTTeueW99A-q0DDh3kWZwPoQ/viewform)** to be considered in various startup program engagements and opportunities.
+&nbsp;&nbsp;&nbsp;&nbsp;- **[Nominate a success story](https://docs.google.com/forms/d/e/1FAIpQLSdo6KN7Y3ldYw_ivM5iJ0hYWKwTTeueW99A-q0DDh3kWZwPoQ/viewform)** to be considered in various startup program engagements and opportunities.
 
 ### <div align="center"><img src="https://github.com/user-attachments/assets/a5e131f3-bb89-4d3f-8f18-a25c4bb89ac6" alt="CloudZero" width="400"/></div>
 
 <div align="center"><p><a href="https://github.com/customer-stories/cloudzero">Read the CloudZero customer story</a></p></div>
+</details>
 
----
+<details>
+  <summary>🖐️ Request GitHub’s Industry Leaders at Your Next Event</summary>
 
-### <p align="center">🖐️ Request GitHub’s Industry Leaders at Your Next Event</p>
-
-- Engage our leadership and experts for events, joint-content, or portfolio education. Connect with your partner lead to explore how we might support your next initiative.
+&nbsp;&nbsp;&nbsp;&nbsp;- Elevate your next conference, co-create impactful content, or enhance portfolio education. 
 
 <table>
   <tr>
@@ -162,10 +169,8 @@ Whether you're aiming to boost productivity, speed up product development, or en
     <td><strong>GitHub CEO & StationF</strong></td>
   </tr>
 </table>
-
----
 </details>
-
+</details>
 
 
 
