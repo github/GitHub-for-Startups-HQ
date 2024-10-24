@@ -83,7 +83,7 @@ Apply:
   <summary>Open</summary>
 
 <p align="center">
-  <strong>Unlock unique opportunities to enhance your portfolio’s visibility and growth through GitHub’s global network. Engage with us by hosting events at our San Francisco office, showcasing your standout open-source projects, collaborating with the GitHub Fund, promoting success stories, and empowering your companies with hands-on training from GitHub experts.</strong>
+  <strong>Tap into exclusive opportunities to amplify your fund’s impact and fast-track portfolio growth with GitHub’s global network and startup ecosystem. Engage with us by hosting events at our San Francisco office, showcasing your standout open-source projects, collaborating with the GitHub Fund, promoting success stories, and empowering your companies with hands-on training from GitHub experts.</strong>
 </p>
 
 #### Select Partner & Portfolio Opportunities:
