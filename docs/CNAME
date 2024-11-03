@@ -1,1 +1,0 @@
-partner-assets.github.io
