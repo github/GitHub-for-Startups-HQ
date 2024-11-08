@@ -1,13 +1,34 @@
-# Partner Assets
 ![Screenshot 2023-08-09 at 2 15 55 PM](https://github.com/GitHub-for-Startups/Global-Repo/assets/104146251/e6ce8f96-f1d0-443f-a9c2-37952f701879)
-
-### <p align="center">GitHub for Startups partners with the world's leading investors to create the unicorns of tomorrow</p>
 
 <div align="center">
 
-Welcome to the GitHub for Startups Partner repository. We’re excited to partner with you to support the next wave of high-growth startups building on GitHub. As a venture partner, your portfolio companies unlock exclusive access to GitHub’s best-in-class tools, resources, and developer community—empowering them to scale faster on the world’s most advanced, AI-powered developer platform.
+### Welcome to GitHub for Startups! We’re excited to partner with you to offer your portfolio companies exclusive access to the world’s largest and most advanced, AI-powered developer platform. This repository is your go-to hub for onboarding, ongoing support, and additional engagements, designed to help you maximize the impact of GitHub across your portfolio. **Let's build from here**.
+
+<center>
+
+| Developers | Organizations | Repositories | Fortune 100 |
+|------------|---------------|--------------|-------------|
+| 100+ million | 4+ million | 420+ million | 90% |
+
+</center>
+
+### Follow us on
+
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/github)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/github)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/github)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/github)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/github)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@github)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/github)
 
 </div>
+
+## Table of Contents
+1. [📧 Support & Contact Info](#-support--contact-info)
+2. [📣 Sharing Our Partnership](#-sharing-our-partnership)
+3. [🚀 Amplify Your Portfolio with GitHub](#-amplify-your-portfolio-with-github)
+4. [❓ FAQ](#-faq)
 
 ## 📧 Support & Contact Info
 <details>
@@ -18,6 +39,7 @@ Welcome to the GitHub for Startups Partner repository. We’re excited to partne
   
   #### 🆘 Technical & Product Support
   - Startups can use our [expedited support channel](https://support.github.com/contact?tags=hh-github-for-startups) and follow up with their ticket number [startups@github.com](mailto:startups@github.com).
+  
   #### 🤲 General Inquiries  
   - For any other questions, please contact your GitHub partnership lead.
 
@@ -28,55 +50,37 @@ Welcome to the GitHub for Startups Partner repository. We’re excited to partne
 </details>
 
 ## 📣 Sharing Our Partnership
-<details><summary>
-Open
-</summary>
-
-<span style="margin-right:20px;"></span>
-
-</summary>
-
+<details>
+  <summary>Open</summary>
 
 > [Access GitHub's Logos here](https://github.com/logos)
 
-You can copy this section with one click & add referenced links below
-```
-We’ve partnered with GitHub for Startups to unlock exclusive benefits designed to fuel your growth on the world’s leading AI-powered developer platform.
-The partnership offers startup-friendly pricing (up to $25,000 in total savings), tailored technical guidance, access to a global startup network, and other opportunities.
+We’ve partnered with GitHub for Startups to unlock exclusive benefits designed to fuel your growth on the world’s leading AI-powered developer platform. The partnership offers startup-friendly pricing (up to $25,000 in total savings), tailored technical guidance, access to a global startup network, and other opportunities.
 
-Program Offer
+**Program Offer**
 
- - GitHub Enterprise: 20 seats free for the first year. An optional 50% off in year two. 
-Supercharge your development with advanced security, automation, and collaboration tools.
+- **GitHub Enterprise**: 20 seats free for the first year. An optional 50% off in year two.
+  Supercharge your development with advanced security, automation, and collaboration tools.
 
-- GitHub Advanced Security: 20 seats at 50% off in year one. An optional 25% off in year two.
-Stay ahead of vulnerabilities with AI-powered security solutions. 
+- **GitHub Advanced Security**: 20 seats at 50% off in year one. An optional 25% off in year two.
+  Stay ahead of vulnerabilities with AI-powered security solutions.
 
-Eligibility:
+**Eligibility & How to Apply**
 
-- Affiliated with an approved venture partner.
-- Series B or earlier.
-- New to either GitHub Enterprise or GitHub Advanced Security.
+This program is available to your portfolio companies that are:
+- Series B or earlier stage
+- New to GitHub Enterprise and/or Advanced Security
+- Affiliated with an approved GitHub for Startups partner (that's you!)
 
-Already using GitHub Enterprise?
-If you’re part of GitHub for Startups but not yet using GitHub Advanced Security, you can still unlock these additional benefits. Simply apply, and the GitHub team will reach out to discuss adding Advanced Security to your plan.
+To get started, simply apply through our partner page. The GitHub team will follow up within 1-2 business days.
 
-Not eligible?
-Reach out to startups@github.com for any additional support.
-
-Apply:
-- Apply Here {link your unique partner page}: Their startup team will respond in 1-2 business days.
-- Please note this program recently expanded to include companies up to Series B and GitHub Advanced Security. These updates aren’t yet reflected in the application or public materials. After applying, the team will reach out, and you can express interest in GitHub Advanced Security then.
-
-```
-> **Offer References:** 
+**Offer References:** 
 - [GitHub for Startups Home](https://github.com/enterprise/startups/)
 - [GitHub Enterprise](https://github.com/enterprise)
 - [GitHub Advanced Security](https://github.com/enterprise/advanced-security)
 - Include your unique partner page: ([example](https://resources.github.com/startups/?pid=EXAMPLE))
 
 </details>
-
 
 ## 🚀 Amplify Your Portfolio with GitHub
 <details>
@@ -86,20 +90,20 @@ Apply:
   <strong>Tap into exclusive opportunities to amplify your fund’s impact and fast-track portfolio growth with GitHub’s global network and startup ecosystem. Engage with us by hosting events at our San Francisco office, showcasing your standout open-source projects, collaborating with the GitHub Fund, promoting success stories, and empowering your companies with hands-on training from GitHub experts.</strong>
 </p>
 
-#### Select Partner & Portfolio Opportunities:
+#### Select Partner & Portfolio Opportunities
 
 <details>
   <summary>📚 Power Your Portfolio's Growth with GitHub Experts</summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Whether your focus is on boosting productivity, accelerating product development, or enhancing security, GitHub is here to support your key educational priorities. We can provide hands-on technical training, insights into industry trends like AI and innovation, and strategic guidance for scaling with GitHub. 
+  Whether your focus is on boosting productivity, accelerating product development, or enhancing security, GitHub is here to support your key educational priorities. We can provide hands-on technical training, insights into industry trends like AI and innovation, and strategic guidance for scaling with GitHub.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Reach out to your partnership lead to learn more.
+  Reach out to your partnership lead to learn more.
 </details>
 
 <details>
-  <summary>🏙️ Host a Startup Community Event at GitHub's San Francisco Office</summary>
+  <summary>🏙️ Host a Startup Community Event at GitHub
 
-&nbsp;&nbsp;&nbsp;&nbsp;- Request to host your next community event at GitHub. **[Learn more & apply](https://docs.google.com/forms/d/1UWXAc-PdqMV-lVYWwVJItGEceMpWiy-Bx19pfIazdpQ/edit)**.
+&nbsp;&nbsp;&nbsp;&nbsp;- [Learn more & apply](https://docs.google.com/forms/d/1UWXAc-PdqMV-lVYWwVJItGEceMpWiy-Bx19pfIazdpQ/edit).
 
 &nbsp;&nbsp;&nbsp;&nbsp;- Recent events: [Twilio](https://twiliomeetupgithub.splashthat.com/) I [Figma](https://githubday0.splashthat.com/) I [Techstars](https://www.eventbrite.com/e/techstars-alumni-mixer-sf-edition-tickets-920386519857?lang=en-us&locale=en_US&status=30&internal_ref=social&view=listing)
 
@@ -172,5 +176,30 @@ Apply:
 </details>
 </details>
 
+</details>
 
+## ❓ FAQ
+<details>
+  <summary>Open</summary>
+
+  ### Frequently Asked Questions
+
+  **Q: What is the GitHub for Startups program?**  
+  A: The GitHub for Startups program is designed to help early-stage startups succeed by providing access to GitHub’s tools, resources, and community.
+
+  **Q: Who is eligible for the program?**  
+  A: Early-stage startups funded (Series B or earlier) or associated with a GitHub for Startups partner are eligible. Startups must not currently be GitHub Enterprise customers or have previously received GitHub Enterprise credits.
+
+  **Q: What benefits do startups receive?**  
+  A: Startups get 20 seats of GitHub Enterprise free for one year (with a 50% discount in year two) and 20 seats of GitHub Advanced Security at 50% off for one year (with a 25% discount in year two). They also gain tailored product guidance and access to a global startup community.
+
+  **Q: How can I apply for the program?**  
+  A: Startups can apply through their unique partner page. The GitHub team will respond within 1-2 business days.
+
+  **Q: What if I’m already using GitHub Enterprise?**  
+  A: If your startup is part of GitHub for Startups but not yet using GitHub Advanced Security, you can still access these benefits by applying. The GitHub team will reach out to discuss adding Advanced Security to your plan.
+
+  **Q: How can I stay updated with the latest from GitHub for Startups?**  
+  A: You can subscribe to the GitHub for Startups Luma and stay informed on program events and updates worldwide.
+</details>
 
