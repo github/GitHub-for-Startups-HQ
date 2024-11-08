@@ -24,12 +24,6 @@
 
 </div>
 
-## Table of Contents
-1. [📧 Support & Contact Info](#-support--contact-info)
-2. [📣 Sharing Our Partnership](#-sharing-our-partnership)
-3. [🚀 Amplify Your Portfolio with GitHub](#-amplify-your-portfolio-with-github)
-4. [❓ FAQ](#-faq)
-
 ## 📧 Support & Contact Info
 <details>
   <summary>Open</summary>
@@ -46,6 +40,31 @@
   #### 📰 Stay Connected: 
   - Receive the latest from this repository by subscribing with a [free GitHub account](https://github.com/pricing).
   - Subscribe to our [GitHub for Startups Luma](https://lu.ma/githubforstartups) and get the inside scoop on IRL program events happening around the globe.
+
+  #### ❓ FAQ:
+<details>
+  <summary>Open</summary>
+
+  ### Frequently Asked Questions
+
+  **Q: What is the GitHub for Startups program?**  
+  A: The GitHub for Startups program is designed to help early-stage startups succeed by providing access to GitHub’s tools, resources, and community.
+
+  **Q: Who is eligible for the program?**  
+  A: Early-stage startups funded (Series B or earlier) or associated with a GitHub for Startups partner are eligible. Startups must not currently be GitHub Enterprise customers or have previously received GitHub Enterprise credits.
+
+  **Q: What benefits do startups receive?**  
+  A: Startups get 20 seats of GitHub Enterprise free for one year (with a 50% discount in year two) and 20 seats of GitHub Advanced Security at 50% off for one year (with a 25% discount in year two). They also gain tailored product guidance and access to a global startup community.
+
+  **Q: How can I apply for the program?**  
+  A: Startups can apply through their unique partner page. The GitHub team will respond within 1-2 business days.
+
+  **Q: What if I’m already using GitHub Enterprise?**  
+  A: If your startup is part of GitHub for Startups but not yet using GitHub Advanced Security, you can still access these benefits by applying. The GitHub team will reach out to discuss adding Advanced Security to your plan.
+
+  **Q: How can I stay updated with the latest from GitHub for Startups?**  
+  A: You can subscribe to the GitHub for Startups Luma and stay informed on program events and updates worldwide.
+</details>
 
 </details>
 
@@ -176,30 +195,5 @@ To get started, simply apply through our partner page. The GitHub team will foll
 </details>
 </details>
 
-</details>
-
-## ❓ FAQ
-<details>
-  <summary>Open</summary>
-
-  ### Frequently Asked Questions
-
-  **Q: What is the GitHub for Startups program?**  
-  A: The GitHub for Startups program is designed to help early-stage startups succeed by providing access to GitHub’s tools, resources, and community.
-
-  **Q: Who is eligible for the program?**  
-  A: Early-stage startups funded (Series B or earlier) or associated with a GitHub for Startups partner are eligible. Startups must not currently be GitHub Enterprise customers or have previously received GitHub Enterprise credits.
-
-  **Q: What benefits do startups receive?**  
-  A: Startups get 20 seats of GitHub Enterprise free for one year (with a 50% discount in year two) and 20 seats of GitHub Advanced Security at 50% off for one year (with a 25% discount in year two). They also gain tailored product guidance and access to a global startup community.
-
-  **Q: How can I apply for the program?**  
-  A: Startups can apply through their unique partner page. The GitHub team will respond within 1-2 business days.
-
-  **Q: What if I’m already using GitHub Enterprise?**  
-  A: If your startup is part of GitHub for Startups but not yet using GitHub Advanced Security, you can still access these benefits by applying. The GitHub team will reach out to discuss adding Advanced Security to your plan.
-
-  **Q: How can I stay updated with the latest from GitHub for Startups?**  
-  A: You can subscribe to the GitHub for Startups Luma and stay informed on program events and updates worldwide.
 </details>
 
