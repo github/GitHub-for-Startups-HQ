@@ -2,13 +2,16 @@
 
 <div align="center">
 
-### Welcome to GitHub for Startups! We’re excited to partner with you to offer your portfolio companies exclusive access to the world’s largest and most advanced, AI-powered developer platform. This repository is your go-to hub for onboarding, ongoing support, and additional engagements, designed to help you maximize the impact of GitHub across your portfolio. **Let's build from here**.
+### Welcome to GitHub for Startups! 
+We’re excited to partner with you to help your startups grow on the world’s largest and most advanced AI-powered developer platform. This repository is your go-to hub for program onboarding, support, and exclusive growth opportunities.
+
+<p align="center"><strong>Let's build from here</strong>.</p>
 
 <center>
 
-| Developers | Organizations | Repositories | Fortune 100 |
-|------------|---------------|--------------|-------------|
-| 100+ million | 4+ million | 420+ million | 90% |
+| Developers              | Organizations         | Repositories           | Fortune 100        |
+|-------------------------|-----------------------|-------------------------|---------------------|
+| <div align="center">100+ million</div> | <div align="center">4+ million</div> | <div align="center">420+ million</div> | <div align="center">90%</div> |
 
 </center>
 
@@ -48,7 +51,7 @@
   ### Frequently Asked Questions
 
   **Q: What is the GitHub for Startups program?**  
-  A: The GitHub for Startups program is designed to help early-stage startups succeed by providing access to GitHub’s tools, resources, and community.
+  A: The GitHub for Startups program is designed to help early-stage startups succeed by providing access to GitHub’s tools, resources, and global community.
 
   **Q: Who is eligible for the program?**  
   A: Early-stage startups funded (Series B or earlier) or associated with a GitHub for Startups partner are eligible. Startups must not currently be GitHub Enterprise customers or have previously received GitHub Enterprise credits.
@@ -74,7 +77,7 @@
 
 > [Access GitHub's Logos here](https://github.com/logos)
 
-We’ve partnered with GitHub for Startups to unlock exclusive benefits designed to fuel your growth on the world’s leading AI-powered developer platform. The partnership offers startup-friendly pricing (up to $25,000 in total savings), tailored technical guidance, access to a global startup network, and other opportunities.
+We’ve partnered with GitHub for Startups to unlock exclusive benefits designed to fuel your growth on the world’s leading AI-powered developer platform. Through this partnership, you’ll gain access to startup-friendly pricing (up to $25,000 in savings), tailored technical guidance, and access to a global startup network. Below is info on t
 
 **Program Offer**
 
@@ -84,20 +87,26 @@ We’ve partnered with GitHub for Startups to unlock exclusive benefits designed
 - **GitHub Advanced Security**: 20 seats at 50% off in year one. An optional 25% off in year two.
   Stay ahead of vulnerabilities with AI-powered security solutions.
 
-**Eligibility & How to Apply**
+**Eligibility & Application**
 
-This program is available to your portfolio companies that are:
-- Series B or earlier stage
-- New to GitHub Enterprise and/or Advanced Security
-- Affiliated with an approved GitHub for Startups partner (that's you!)
+Eligibility:
+- Series B or earlier.
+- New to GitHub Enterprise or GitHub Advanced Security.
+- Affiliated with an approved GitHub for Startups partner.
 
-To get started, simply apply through our partner page. The GitHub team will follow up within 1-2 business days.
+Application:
+- Submit your application on our partner page, and their team will follow up within 1–2 business days.
+
+If you have any questions or need support, reach out to startups@github.com. 
 
 **Offer References:** 
+
+- Include your unique partner page: ([example](https://resources.github.com/startups/?pid=EXAMPLE))
 - [GitHub for Startups Home](https://github.com/enterprise/startups/)
 - [GitHub Enterprise](https://github.com/enterprise)
 - [GitHub Advanced Security](https://github.com/enterprise/advanced-security)
-- Include your unique partner page: ([example](https://resources.github.com/startups/?pid=EXAMPLE))
+
+</details>
 
 </details>
 
@@ -105,8 +114,8 @@ To get started, simply apply through our partner page. The GitHub team will foll
 <details>
   <summary>Open</summary>
 
-<p align="center">
-  <strong>Tap into exclusive opportunities to amplify your fund’s impact and fast-track portfolio growth with GitHub’s global network and startup ecosystem. Engage with us by hosting events at our San Francisco office, showcasing your standout open-source projects, collaborating with the GitHub Fund, promoting success stories, and empowering your companies with hands-on training from GitHub experts.</strong>
+<p align="center" style="line-height: 1.8; margin: 20px 0;">
+  <strong>Elevate your impact with GitHub for Startups. From portfolio reviews to global marketing initiatives and expert-driven collaborations, we design strategies to accelerate growth for select partners. Learn more below and connect with your partnerships lead.</strong>
 </p>
 
 #### Select Partner & Portfolio Opportunities
@@ -120,16 +129,14 @@ To get started, simply apply through our partner page. The GitHub team will foll
 </details>
 
 <details>
-  <summary>🏙️ Host a Startup Community Event at GitHub
+  <summary>🏙️ Host a Startup Community Event at GitHub</summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;- [Learn more & apply](https://docs.google.com/forms/d/1UWXAc-PdqMV-lVYWwVJItGEceMpWiy-Bx19pfIazdpQ/edit).
-
-&nbsp;&nbsp;&nbsp;&nbsp;- Recent events: [Twilio](https://twiliomeetupgithub.splashthat.com/) I [Figma](https://githubday0.splashthat.com/) I [Techstars](https://www.eventbrite.com/e/techstars-alumni-mixer-sf-edition-tickets-920386519857?lang=en-us&locale=en_US&status=30&internal_ref=social&view=listing)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f1f16f39-9572-4891-878d-2d2a312ffa62" alt="Event at GitHub Office" width="150" height="auto"/>
   <br/>
-  <a href="https://www.linkedin.com/posts/jamdotdev_behind-the-scenes-jam-ai-night-at-github-activity-7159267661426667521-6zkP/">Jam.dev AI Night</a>
+  <a href="https://www.linkedin.com/posts/jamdotdev_behind-the-scenes-jam-ai-night-at-github-activity-7159267661426667521-6zkP/">See Jam.dev AI Demo Night</a>
 </p>
 </details>
 
@@ -193,7 +200,3 @@ To get started, simply apply through our partner page. The GitHub team will foll
   </tr>
 </table>
 </details>
-</details>
-
-</details>
-
