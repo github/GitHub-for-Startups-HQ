@@ -75,9 +75,7 @@ We’re excited to partner with you to help your startups grow on the world’s 
 <details>
   <summary>Open</summary>
 
-> [Access GitHub's Logos here](https://github.com/logos)
-
-We’ve partnered with GitHub for Startups to unlock exclusive benefits designed to fuel your growth on the world’s leading AI-powered developer platform. Through this partnership, you’ll gain access to startup-friendly pricing (up to $25,000 in savings), tailored technical guidance, and access to a global startup network. Below is info on t
+We’ve partnered with GitHub for Startups to unlock exclusive benefits designed to fuel your growth on the world’s leading AI-powered developer platform. Through this partnership, you’ll gain access to startup-friendly pricing (up to $25,000 in savings), tailored technical guidance, and access to a global startup network. Here's an overview with our unique application page.
 
 **Program Offer**
 
@@ -96,8 +94,9 @@ Eligibility:
 
 Application:
 - Submit your application on our partner page, and their team will follow up within 1–2 business days.
+- Note: the program just expanded to include Series B and GitHub Advanced Security, it's not yet reflected in the application. 
 
-If you have any questions or need support, reach out to startups@github.com. 
+If you have any questions or need support, reach out to startups@github.com.
 
 **Offer References:** 
 
@@ -105,6 +104,7 @@ If you have any questions or need support, reach out to startups@github.com.
 - [GitHub for Startups Home](https://github.com/enterprise/startups/)
 - [GitHub Enterprise](https://github.com/enterprise)
 - [GitHub Advanced Security](https://github.com/enterprise/advanced-security)
+- [Access GitHub's Logos here](https://github.com/logos)
 
 </details>
 
