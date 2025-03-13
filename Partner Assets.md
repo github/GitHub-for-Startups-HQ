@@ -49,11 +49,10 @@ We've partnered with GitHub for Startups to unlock exclusive benefits designed t
   - Series B or earlier
   - New to GitHub Enterprise or Advanced Security (within past 6 months)
 
-Apply Now and their team will follow up within 1–2 business days. 
-For more details, visit [GitHub's Plans](https://github.com/pricing)
-Questions? Reach our [Startup Support Page]([https://support.github.com/contact](https://support.github.com/success/copilot)).
+Apply and their team will follow up within 1–2 business days.
 
-- 
+- For more details, visit [GitHub's Plans](https://github.com/pricing)
+- Questions? Reach our [Startup Support Page]([https://support.github.com/contact](https://support.github.com/success/copilot)).
 
 </details>
 
