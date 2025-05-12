@@ -64,7 +64,7 @@ We'd love to support the startup community by hosting events at any of our HQ of
  <details><summary> 👇 Drop Down
  </summary>
    
-- 📓 Notion for Startups I The connected workspace: Apply [here](https://www.notion.so/startups?utm_medium=partner&utm_source=startup_partner&utm_campaign=startup-program-partner-githubforstartups). Code “STARTUP4110P36612”.
+- 📓 Notion for Startups I The connected workspace: Apply [here](https://www.notion.com/startups?utm_medium=partner&utm_source=startup_partner&utm_campaign=startup-program-partner-githubforstartups&partner=GitHub%20for%20Startups&partnerKey=STARTUP4110P36612).
 
 - 🔐 Auth0 for Startups, powered by Okta I Modern Identity Management: Apply [here](https://autheco.atlassian.net/servicedesk/customer/portal/4/group/9/create/104).
 
@@ -81,8 +81,6 @@ We'd love to support the startup community by hosting events at any of our HQ of
 - ✌️ AngelList I Cap table, fundraising, banking - all in one place: Apply [here](https://www.angellist.com/startups). Code: “GithubAngelList1414” at checkout.
 
 - 🔍 Algolia Startup Program I Search and discovery platform: Apply [here](https://www.algolia.com/industries-and-solutions/startups/?utm_source=github&tf_5155386403601=github).
-
-- 💸 Capchase I Non-dilutive growth financing: Apply [here](https://www.capchase.com/partners/github-for-startups).
 
 - 📤 DocSend I Secure pitch deck and fundraising platform: Apply [here]([https://try.docsend.com/github](https://experience.dropbox.com/docsend/startups?utm=github&pscd=experience.docsend.com&ps_partner_key=Z2l0aHVi&ps_xid=YfDrMA0KyLTWoP&gsxid=YfDrMA0KyLTWoP&gspk=Z2l0aHVi)).
 
