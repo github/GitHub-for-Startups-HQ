@@ -28,33 +28,29 @@
   <summary>Open</summary>
 
 **Quick Partner Links:**
-- Add your unique partner page [example](https://resources.github.com/startups/?pid=Example)
+- Your unique partner page: `https://github.com/enterprise/startups/?pid=YourPartnerID`
 - [GitHub Logo Kit](https://github.com/logos)
 
-We've partnered with GitHub for Startups to unlock exclusive benefits designed to fuel growth on the world's leading AI-powered developer platform. Through this partnership, startups can access up to $25,000 in savings, hands-on technical guidance, and a global startup network.
+We've partnered with GitHub for Startups to give our portfolio companies **$10,000 in credits** for GitHub's full agentic developer platform. Eligible startups get access to GitHub Enterprise, Copilot (with coding agent and agentic workflows), Advanced Security, Actions, and more — plus tailored onboarding and technical guidance.
 
-**Program Benefits**
+**What Your Startups Get**
 
-- **GitHub Enterprise**:
-  - 20 seats free (Year 1), 50% off (Year 2).
-  - Security, compliance, and flexible deployment.
+- **$10,000 in flexible platform credits** for up to 12 months, covering:
+  - **GitHub Enterprise** — Production-grade CI/CD with 50k included Action minutes, GitHub Packages, security, compliance, and flexible deployment.
+  - **GitHub Copilot** — Coding agent, code review, premium models, and agentic capabilities to ship faster without adding headcount.
+  - **GitHub Advanced Security** — Code Security, Secret Protection, and Dependabot to eliminate security debt and keep new vulnerabilities out of code.
+- **Tailored onboarding**, office hours, and technical best practices to get the most out of their credits from day one.
 
-- **GitHub Advanced Security**:
-  - 50% off (Year 1), 25% off (Year 2)
-  - Eliminate security debt and keep new vulnerabilities out of code.
+**Eligibility**
 
-**Getting Started**
+- Series B or earlier
+- New to GitHub Enterprise (no Enterprise plan in the past 6 months)
+- Have not previously received GitHub credits or Enterprise licenses
 
-- **Eligibility**:
-  - Series B or earlier
-  - New to GitHub Enterprise or Advanced Security (within past 6 months)
-
-Apply and their team will follow up within 1–2 business days.
+Apply through your unique partner link and be up and running in minutes. Approved startups receive an onboarding email within 24 hours.
 
 - For more details, visit [GitHub's Plans](https://github.com/pricing)
-- Questions? Reach our [Startup Support Page]([https://support.github.com/contact](https://support.github.com/success/copilot)).
-
-</details>
+- Questions? Reach our [Startup Support Page](https://support.github.com/success/copilot) or email [startups@github.com](mailto:startups@github.com).
 
 </details>
 
@@ -126,4 +122,3 @@ Connect with your partnerships lead to explore how we can create an impact, toge
   <strong>Let's build from here.</strong><br>
   <img src="https://github.com/user-attachments/assets/e83939c4-3d8d-46f3-aca1-7d3e6c62805c" alt="GFS_Partners" width="300"/>
 </p>
-
