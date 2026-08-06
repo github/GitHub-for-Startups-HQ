@@ -28,7 +28,7 @@
   <summary>Open</summary>
 
 **Quick Partner Links:**
-- Your unique partner page: `https://github.com/enterprise/startups/?pid=YourPartnerID`
+- Your unique partner page: [https://github.com/enterprise/startups/?pid=YourPartnerID](https://github.com/enterprise/startups/?pid=YourPartnerID)
 - [GitHub Logo Kit](https://github.com/logos)
 
 We've partnered with GitHub for Startups to give our portfolio companies **$10,000 in credits** for GitHub's full agentic developer platform. Eligible startups get access to GitHub Enterprise, Copilot (with coding agent and agentic workflows), Advanced Security, Actions, and more — plus tailored onboarding and technical guidance.
@@ -36,7 +36,7 @@ We've partnered with GitHub for Startups to give our portfolio companies **$10,0
 **What Your Startups Get**
 
 - **$10,000 in flexible platform credits** for up to 12 months, covering:
-  - **GitHub Enterprise** — Production-grade CI/CD with 50k included Action minutes, GitHub Packages, security, compliance, and flexible deployment.
+  - **GitHub Enterprise** — Production-grade CI/CD with 50,000 included GitHub Actions minutes, GitHub Packages, security, compliance, and flexible deployment.
   - **GitHub Copilot** — Coding agent, code review, premium models, and agentic capabilities to ship faster without adding headcount.
   - **GitHub Advanced Security** — Code Security, Secret Protection, and Dependabot to eliminate security debt and keep new vulnerabilities out of code.
 - **Tailored onboarding**, office hours, and technical best practices to get the most out of their credits from day one.
