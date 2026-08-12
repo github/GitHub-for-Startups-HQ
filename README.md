@@ -22,7 +22,7 @@ GitHub for Startups helps drive startup success through educational content, net
  
  **🖋️ Startup Eligibility** 
 
-- Must be an early-stage startup that is funded (Series B or earlier) or associated with a GitHub for Startups partner. This can be an investor, accelerator, or startup support organization.
+- Must be an early-stage startup that is funded (Series B or earlier) and associated with a GitHub for Startups partner. This can be an investor, accelerator, or startup support organization.
   - **A full list of GitHub for Startups partners can be found [here](https://github.com/enterprise/startups/partners).**
 - Must not be a current GitHub Enterprise customer or have previously received credits for GitHub Enterprise
 
