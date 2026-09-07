@@ -15,7 +15,7 @@
   <summary>Open</summary>
   
 🆘 Technical & Product Support
-- Startups can self-serve questions & expedite tickets via our our [Startup Program Copilot](https://support.github.com/success/copilot).
+- Startups can self-serve questions & expedite tickets via our [Startup Program Copilot](https://support.github.com/success/copilot).
 
 📰 Stay Connected: 
   - Receive the latest from this repository by subscribing with a [free GitHub account](https://github.com/pricing).
